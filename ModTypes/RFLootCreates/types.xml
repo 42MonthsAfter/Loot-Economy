@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<types>
+    <type name="RFLootcrate_box_red">
+        <nominal>0</nominal>
+        <lifetime>259200</lifetime>
+        <restock>259200</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+  </type>
+  <types>
+    <type name="RFLootcrate_box_orange">
+        <nominal>0</nominal>
+        <lifetime>259200</lifetime>
+        <restock>259200</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+  </type>
+  <types>
+    <type name="RFLootcrate_box_grey">
+        <nominal>0</nominal>
+        <lifetime>259200</lifetime>
+        <restock>259200</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+  </type>
+  <types>
+    <type name="RFLootcrate_box_red">
+        <nominal>0</nominal>
+        <lifetime>259200</lifetime>
+        <restock>259200</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+  </type>
+  <types>
+    <type name="RFLootcrate_longbox_red">
+        <nominal>0</nominal>
+        <lifetime>259200</lifetime>
+        <restock>259200</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+  </type>
+  <types>
+    <type name="RFLootcrate_longbox_orange">
+        <nominal>0</nominal>
+        <lifetime>259200</lifetime>
+        <restock>259200</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+  </type>
+  <types>
+    <type name="RFLootcrate_longbox_black">
+        <nominal>0</nominal>
+        <lifetime>259200</lifetime>
+        <restock>259200</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+  </type>
+  <types>
+    <type name="RFLootcrate_barrel_red">
+        <nominal>0</nominal>
+        <lifetime>259200</lifetime>
+        <restock>259200</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+  </type>
+  <types>
+    <type name="RFLootcrate_barrel_orange">
+        <nominal>0</nominal>
+        <lifetime>259200</lifetime>
+        <restock>259200</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+  </type>
+  <types>
+    <type name="RFLootcrate_barrel_grey">
+        <nominal>0</nominal>
+        <lifetime>259200</lifetime>
+        <restock>259200</restock>
+        <min>0</min>
+        <quantmin>-1</quantmin>
+        <quantmax>-1</quantmax>
+        <cost>100</cost>
+        <flags count_in_cargo="0" count_in_hoarder="0" count_in_map="1" count_in_player="0" crafted="0" deloot="0"/>
+        <category name="tools"/>
+  </type>
+</types>
