@@ -1,0 +1,66 @@
+{
+    "ConfigVersion": 28,
+    "ID": 9,
+    "Type": 3,
+    "Title": "Travel: Explore the Devil's Eye",
+    "Descriptions": [
+        "There was a group who had shacked up down in the Eye when the outbreak first occured. No idea if they are still down there or not. Check it out and get back to me for a few extra spending bucks. -Stinky Pete-",
+        "Still working on it? I get it, things are rough outside these walls.",
+        "Look at that..."
+    ],
+    "ObjectiveText": "Explore the Devil's Eye",
+    "FollowUpQuest": 0,
+    "Repeatable": 1,
+    "IsDailyQuest": 1,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "ExpansionBanknoteUSD",
+            "Amount": 200,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        1
+    ],
+    "QuestTurnInIDs": [
+        1
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 9,
+            "ObjectiveType": 3
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        8
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 0,
+    "SequentialObjectives": 0,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

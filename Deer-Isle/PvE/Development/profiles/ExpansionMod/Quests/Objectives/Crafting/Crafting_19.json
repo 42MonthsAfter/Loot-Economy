@@ -1,0 +1,12 @@
+{
+    "ConfigVersion": 28,
+    "ID": 19,
+    "ObjectiveType": 11,
+    "ObjectiveText": "Beginner: Craft a Bone Hook",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ItemNames": [
+        "BoneHook"
+    ],
+    "ExecutionAmount": 1
+}

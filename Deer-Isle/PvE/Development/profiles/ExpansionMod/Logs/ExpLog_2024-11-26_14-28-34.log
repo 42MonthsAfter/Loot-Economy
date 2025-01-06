@@ -1,0 +1,53 @@
+14:31:04.070 [Safezone] Player "Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<6255.090332, 2.298904, 876.004700>) Entered the safezone
+14:31:04.070 [Expansion Quests] Initialize quest system on the connected client with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+14:31:04.078 [Expansion Quests] Loaded existing player quest data for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+14:31:04.078 [Expansion Quests] Check quest initialization for quest with ID=1 | State=COMPLETED | Player UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+14:31:04.078 [Expansion Quests] Quest with ID=2 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+14:31:04.078 [Expansion Quests] Quest with ID=3 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+14:31:04.078 [Expansion Quests] Quest with ID=4 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+14:31:04.078 [Expansion Quests] Quest with ID=5 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+14:31:04.078 [Expansion Quests] Quest with ID=6 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+14:31:04.078 [Expansion Quests] Quest with ID=7 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+14:31:04.078 [Expansion Quests] Quest with ID=8 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+14:31:04.078 [Expansion Quests] Quest with ID=9 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+14:31:04.078 [Expansion Quests] Quest with ID=10 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+14:31:04.078 [Expansion Quests] Quest with ID=11 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+14:31:04.078 [Expansion Quests] Quest with ID=12 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+14:31:04.078 [Expansion Quests] Quest with ID=13 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+14:31:04.078 [Expansion Quests] Quest with ID=14 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+14:31:04.078 [Expansion Quests] Quest with ID=15 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+14:31:04.082 [Expansion Quests] Quest with ID=16 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+14:31:04.082 [Expansion Quests] Quest with ID=17 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+14:31:04.082 [Expansion Quests] Quest with ID=18 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+14:31:04.082 [Expansion Quests] Quest with ID=19 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+14:31:04.082 [Expansion Quests] Quest with ID=20 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+14:31:04.082 [Expansion Quests] Quest with ID=21 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+14:31:04.082 [Expansion Quests] Quest with ID=22 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+14:31:04.082 [Expansion Quests] Quest with ID=23 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+14:31:04.082 [Expansion Quests] Quest with ID=24 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+14:31:04.082 [Expansion Quests] Quest with ID=25 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+14:31:04.082 [Expansion Quests] Quest with ID=26 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+14:31:04.082 [Expansion Quests] Quest with ID=27 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+14:31:04.082 [Expansion Quests] Quest with ID=28 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+14:31:04.082 [Expansion Quests] Quest with ID=29 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+14:31:04.082 [Expansion Quests] Quest with ID=30 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+14:31:04.082 [Expansion Quests] Quest with ID=31 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+14:31:04.082 [Expansion Quests] Quest with ID=32 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+14:31:04.082 [Expansion Quests] Quest with ID=33 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+14:31:04.082 [Expansion Quests] Quest with ID=35 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+14:31:04.082 [Expansion Quests] Quest with ID=36 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+14:31:04.082 [Expansion Quests] Quest with ID=37 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+14:31:04.082 [Expansion Quests] Quest with ID=38 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+14:31:04.082 [Expansion Quests] Quest with ID=39 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+14:31:04.082 [Expansion Quests] Quest with ID=40 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+14:31:04.085 [Expansion Quests] Sending mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= quest configs to client for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+14:31:04.085 [Expansion Quests] Sending player quest data for 1 quests to player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+14:32:12.894 [Safezone] Player "Bunker" (id=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= pos=<5371.496582, 38.231899, 703.606445>) Left the safezone
+14:36:09.910 [MissionAirdrop] An airdrop is heading towards "Stonington" (pos=<6973.000000, 0.000000, 1701.000000> type=Random_Stonington) with a ExpansionAirdropContainer_Military
+14:36:19.906 [MissionAirdrop] An airdrop is heading towards "Warren-Cove" (pos=<6924.000000, 0.000000, 5473.000000> type=Random_Warren-Cove) with a ExpansionAirdropContainer_Basebuilding
+14:36:20.910 [AI Patrol 00023] Spawning 2 Paris Island Tier 04 Patrol 02 (Shamans) bots at <3225.647949, 22.340000, 4142.988281>
+14:36:20.960 [AI Patrol 00023] Global patrol count: 1
+14:36:29.906 [MissionAirdrop] An airdrop is heading towards "Georgstown" (pos=<4522.000000, 0.000000, 4370.000000> type=Random_Georgstown) with a ExpansionAirdropContainer_Basebuilding
+14:36:39.906 [MissionAirdrop] An airdrop is heading towards "Kushville" (pos=<7630.000000, 0.000000, 3717.000000> type=Random_Kushville) with a ExpansionAirdropContainer
+14:37:19.906 [MissionAirdrop] An airdrop is heading towards "Greenville" (pos=<4658.000000, 0.000000, 1414.000000> type=Random_Greenville) with a ExpansionAirdropContainer_Medical
+14:37:39.906 [MissionAirdrop] An airdrop is heading towards "Oceanville" (pos=<10179.000000, 0.000000, 4722.000000> type=Random_Oceanville) with a ExpansionAirdropContainer_Basebuilding

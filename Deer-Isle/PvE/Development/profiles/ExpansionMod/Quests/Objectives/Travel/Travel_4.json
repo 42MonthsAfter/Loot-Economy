@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 4,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Get to Prison Island",
+    "TimeLimit": 7200,
+    "Active": 1,
+    "Position": [
+        5526.15, 
+        34.84, 
+        674.413
+    ],
+    "MaxDistance": 1.0,
+    "MarkerName": "Prison Island",
+    "ShowDistance": 0,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

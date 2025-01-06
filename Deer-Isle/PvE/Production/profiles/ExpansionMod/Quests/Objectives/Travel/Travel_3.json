@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 3,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Get to Pear Plantation",
+    "TimeLimit": 7200,
+    "Active": 1,
+    "Position": [
+        9570.7, 
+        23.9053, 
+        7602.63
+    ],
+    "MaxDistance": 1.0,
+    "MarkerName": "Pear Plantation",
+    "ShowDistance": 0,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

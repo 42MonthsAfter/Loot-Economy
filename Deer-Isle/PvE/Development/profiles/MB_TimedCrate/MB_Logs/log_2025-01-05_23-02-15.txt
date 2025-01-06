@@ -1,0 +1,24 @@
+2025-01-05_23-02-15 - Setting up crate spawns.
+2025-01-05_23-02-15 - Using random spawns for Locked_Rust_Crate
+2025-01-05_23-02-15 - Spawned random crate at position: <5527.319824, 34.852501, 688.247009>
+2025-01-05_23-02-15 - Spawned random crate at position: <8901.599609, 23.869499, 5995.540039>
+2025-01-05_23-02-15 - Spawned random crate at position: <5460.939941, 74.012497, 3679.969971>
+2025-01-05_23-02-15 - Using random spawns for Locked_Armoury_Container
+2025-01-05_23-02-15 - Spawned random crate at position: <8967.750000, 17.947201, 5944.709961>
+2025-01-05_23-02-15 - Using random spawns for Locked_Car_Container
+2025-01-05_23-02-15 - Spawned random crate at position: <5695.339844, 74.080704, 3734.419922>
+2025-01-05_23-32-43 - Refreshed crate at new position: <1921.420044, 9.202500, 8912.929688>
+2025-01-05_23-32-43 - Refreshed crate at new position: <5378.910156, 74.164902, 3794.840088>
+2025-01-05_23-32-43 - Refreshed crate at new position: <5527.319824, 34.852501, 688.247009>
+2025-01-05_23-32-43 - Refreshed crate at new position: <3742.899902, 9.477260, 8828.179688>
+2025-01-05_23-32-43 - Refreshed crate at new position: <3742.899902, 9.477260, 8828.179688>
+2025-01-06_00-03-11 - Refreshed crate at new position: <3074.340088, 22.462500, 4065.189941>
+2025-01-06_00-03-11 - Refreshed crate at new position: <11338.000000, 14.792500, 10056.799805>
+2025-01-06_00-03-11 - Refreshed crate at new position: <9717.389648, 49.219101, 15236.500000>
+2025-01-06_00-03-11 - Refreshed crate at new position: <3709.030029, 11.420000, 8683.019531>
+2025-01-06_00-03-11 - Refreshed crate at new position: <2495.270020, 35.112499, 3355.260010>
+2025-01-06_00-33-39 - Refreshed crate at new position: <8791.209961, 45.432499, 3794.659912>
+2025-01-06_00-33-39 - Refreshed crate at new position: <13403.500000, 12.952500, 9992.719727>
+2025-01-06_00-33-39 - Refreshed crate at new position: <8901.599609, 23.869499, 5995.540039>
+2025-01-06_00-33-40 - Refreshed crate at new position: <3074.340088, 22.462500, 4065.189941>
+2025-01-06_00-33-40 - Refreshed crate at new position: <3074.340088, 22.462500, 4065.189941>

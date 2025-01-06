@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 5,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Visit the Archipelago",
+    "TimeLimit": 7200,
+    "Active": 1,
+    "Position": [
+        2513.22, 
+        18.6325, 
+        13979.9
+    ],
+    "MaxDistance": 1.0,
+    "MarkerName": "Archipelago",
+    "ShowDistance": 0,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

@@ -1,0 +1,14 @@
+2024-12-30_16-11-57 - Setting up crate spawns.
+2024-12-30_16-11-57 - Using random spawns for Locked_Rust_Crate
+2024-12-30_16-11-57 - Spawned random crate at position: <3074.340088, 22.462500, 4065.189941>
+2024-12-30_16-11-57 - Spawned random crate at position: <8901.599609, 23.869499, 5995.540039>
+2024-12-30_16-11-57 - Spawned random crate at position: <1439.439941, 8.480200, 15580.799805>
+2024-12-30_16-11-57 - Using random spawns for Locked_Armoury_Container
+2024-12-30_16-11-57 - Spawned random crate at position: <5493.660156, 34.852501, 713.405029>
+2024-12-30_16-11-57 - Using random spawns for Locked_Car_Container
+2024-12-30_16-11-57 - Spawned random crate at position: <2593.010010, 22.462500, 3639.239990>
+2024-12-30_16-42-25 - Refreshed crate at new position: <5207.209961, 74.012497, 3785.629883>
+2024-12-30_16-42-25 - Refreshed crate at new position: <764.268982, 8.132500, 15122.400391>
+2024-12-30_16-42-25 - Refreshed crate at new position: <13329.299805, 12.922500, 9756.190430>
+2024-12-30_16-42-25 - Refreshed crate at new position: <5527.319824, 34.852501, 688.247009>
+2024-12-30_16-42-25 - Refreshed crate at new position: <5527.319824, 34.852501, 688.247009>

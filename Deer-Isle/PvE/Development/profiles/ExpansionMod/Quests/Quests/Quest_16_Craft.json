@@ -1,0 +1,90 @@
+{
+    "ConfigVersion": 28,
+    "ID": 16,
+    "Type": 11,
+    "Title": "Crafting: Make Big Boom",
+    "Descriptions": [
+        "It's the little things in life. Like blowing shit up. It's not what you think though, I use them for fishing. Bring me a few IEDs and I'll toss a little something-something your way. -Stinky Pete-",
+        "Still working on it? I get it, things are rough outside these walls.",
+        "Look at that..."
+    ],
+    "ObjectiveText": "Craft a Improvised Explosive",
+    "FollowUpQuest": 0,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "Glock19",
+            "Amount": 1,
+            "Attachments": [
+                "Mag_Glock_15Rnd"
+            ],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "FNX45",
+            "Amount": 1,
+            "Attachments": [
+                "Mag_FNX45_15Rnd"
+            ],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "MKII",
+            "Amount": 1,
+            "Attachments": [
+                "Mag_MKII_10Rnd"
+            ],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 1,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        1
+    ],
+    "QuestTurnInIDs": [
+        1
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 16,
+            "ObjectiveType": 11
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        15
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 0,
+    "SequentialObjectives": 0,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

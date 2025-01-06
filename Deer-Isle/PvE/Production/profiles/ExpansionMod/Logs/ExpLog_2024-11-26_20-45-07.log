@@ -1,0 +1,62 @@
+20:46:30.445 [Expansion Quests] Initialize quest system on the connected client with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+20:46:30.453 [Expansion Quests] Loaded existing player quest data for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+20:46:30.453 [Expansion Quests] Check quest initialization for quest with ID=1 | State=STARTED | Player UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+20:46:30.453 [Expansion Quests] Create new quest instance for quest with ID=1 | Player UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+20:46:30.453 [Expansion Quests] Quest with ID=2 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+20:46:30.453 [Expansion Quests] Quest with ID=3 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+20:46:30.453 [Expansion Quests] Quest with ID=4 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+20:46:30.453 [Expansion Quests] Quest with ID=5 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+20:46:30.453 [Expansion Quests] Quest with ID=6 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+20:46:30.453 [Expansion Quests] Quest with ID=7 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+20:46:30.453 [Expansion Quests] Quest with ID=8 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+20:46:30.453 [Expansion Quests] Quest with ID=9 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+20:46:30.453 [Expansion Quests] Quest with ID=10 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+20:46:30.453 [Expansion Quests] Quest with ID=11 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+20:46:30.453 [Expansion Quests] Quest with ID=12 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+20:46:30.453 [Expansion Quests] Quest with ID=13 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+20:46:30.453 [Expansion Quests] Quest with ID=14 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+20:46:30.453 [Expansion Quests] Quest with ID=15 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+20:46:30.453 [Expansion Quests] Quest with ID=16 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+20:46:30.453 [Expansion Quests] Quest with ID=17 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+20:46:30.453 [Expansion Quests] Quest with ID=18 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+20:46:30.453 [Expansion Quests] Quest with ID=19 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+20:46:30.453 [Expansion Quests] Quest with ID=20 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+20:46:30.453 [Expansion Quests] Quest with ID=21 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+20:46:30.453 [Expansion Quests] Quest with ID=22 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+20:46:30.453 [Expansion Quests] Quest with ID=23 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+20:46:30.460 [Expansion Quests] Quest with ID=24 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+20:46:30.460 [Expansion Quests] Quest with ID=25 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+20:46:30.460 [Expansion Quests] Quest with ID=26 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+20:46:30.460 [Expansion Quests] Quest with ID=27 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+20:46:30.460 [Expansion Quests] Quest with ID=28 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+20:46:30.460 [Expansion Quests] Quest with ID=29 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+20:46:30.460 [Expansion Quests] Quest with ID=30 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+20:46:30.460 [Expansion Quests] Quest with ID=31 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+20:46:30.460 [Expansion Quests] Quest with ID=32 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+20:46:30.460 [Expansion Quests] Quest with ID=33 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+20:46:30.460 [Expansion Quests] Quest with ID=35 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+20:46:30.460 [Expansion Quests] Quest with ID=36 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+20:46:30.460 [Expansion Quests] Quest with ID=37 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+20:46:30.460 [Expansion Quests] Quest with ID=38 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+20:46:30.460 [Expansion Quests] Quest with ID=39 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+20:46:30.460 [Expansion Quests] Quest with ID=40 is not a a valid achievement or auto start quest. Skip quest for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+20:46:30.460 [Expansion Quests] Sending mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= quest configs to client for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+20:46:30.460 [Expansion Quests] Sending player quest data for 1 quests to player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=
+20:46:30.460 [AI Object Patrol 00003] Spawning 3 Tier 02 Patrol (Shamans) bots at <5932.960938, 72.500000, 3797.168213>
+20:46:30.484 [AI Object Patrol 00003] Global patrol count: 1
+20:46:30.929 [Expansion Quests] Added new objective data for type=TRAVEL | Key=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= | ID=1
+20:46:30.929 [Expansion Quests] Updated and saved persistent player quest data for player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY= | Quest ID=1
+20:47:07.125 [AI Patrol 00029] Spawning 3 Devils Eye Tier 03 Patrol (Shamans) bots at <6554.634277, 140.637222, 3446.077637>
+20:47:07.148 [AI Patrol 00029] Global patrol count: 2
+20:48:38.664 [VehicleEnter] Player Bunker [Admin] [uid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=] entered vehicle Ada 4x4 (id=CDAF7D79374645D2D5D4E8BA7AE2672E pos=<5990.299316, 61.293476, 3277.127197>) as driver
+20:48:40.429 [VehicleEngine] Player Bunker [Admin] [uid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=] started vehicle Ada 4x4 (id=CDAF7D79374645D2D5D4E8BA7AE2672E pos=<5990.299316, 61.293476, 3277.127197>)
+20:48:52.328 [VehicleEngine] Player Bunker [Admin] [uid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=] stopped vehicle Ada 4x4 (id=CDAF7D79374645D2D5D4E8BA7AE2672E pos=<5993.281738, 60.143757, 3289.649902>)
+20:48:54.906 [VehicleLeave] Player Bunker [Admin] [uid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=] left vehicle Ada 4x4 (id=CDAF7D79374645D2D5D4E8BA7AE2672E pos=<5993.310547, 60.133755, 3289.633545>)
+20:50:23.875 [VehicleEnter] Player Bunker [Admin] [uid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=] entered vehicle Ada 4x4 (id=CDAF7D79374645D2D5D4E8BA7AE2672E pos=<5993.909180, 58.282646, 3289.709961>) as driver
+20:50:25.976 [VehicleEngine] Player Bunker [Admin] [uid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=] started vehicle Ada 4x4 (id=CDAF7D79374645D2D5D4E8BA7AE2672E pos=<5993.909180, 58.282646, 3289.709961>)
+20:50:58.007 [VehicleLeave] Player Bunker [Admin] [uid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=] left vehicle Ada 4x4 (id=CDAF7D79374645D2D5D4E8BA7AE2672E pos=<5903.821289, 66.539757, 3355.150879>)
+20:51:36.492 [MissionAirdrop] An airdrop is heading towards "Greenville" (pos=<4658.000000, 0.000000, 1414.000000> type=Random_Greenville) with a ExpansionAirdropContainer_Military
+20:51:46.492 [MissionAirdrop] An airdrop is heading towards "Warren-Cove" (pos=<6924.000000, 0.000000, 5473.000000> type=Random_Warren-Cove) with a ExpansionAirdropContainer_Basebuilding
+20:53:24.843 [VehicleEnter] Player Bunker [Admin] [uid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=] entered vehicle Olga 24 (id=9C19902ECA4D7DF4EA28ABB2499E9106 pos=<5990.499023, 61.240559, 3277.160889>) as driver
+20:54:33.148 [VehicleEngine] Player Bunker [Admin] [uid=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=] started vehicle Olga 24 (id=9C19902ECA4D7DF4EA28ABB2499E9106 pos=<5990.499512, 61.240559, 3277.152100>)
+20:55:03.500 [Expansion Quests] Deleted quest with ID=1 is a of player with UID=mBNlxASsPlOcry0dpDl8K-WgHNR5WMCMmoJ9NhpU4FY=.

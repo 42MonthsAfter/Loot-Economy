@@ -1,0 +1,24 @@
+2024-12-22_01-01-52 - Setting up crate spawns.
+2024-12-22_01-01-53 - Using random spawns for Locked_Rust_Crate
+2024-12-22_01-01-53 - Spawned random crate at position: <2971.820068, 22.547701, 3818.989990>
+2024-12-22_01-01-53 - Spawned random crate at position: <13329.299805, 12.922500, 9756.190430>
+2024-12-22_01-01-53 - Spawned random crate at position: <5460.939941, 74.012497, 3679.969971>
+2024-12-22_01-01-53 - Using random spawns for Locked_Armoury_Container
+2024-12-22_01-01-53 - Spawned random crate at position: <2908.719971, 22.462500, 3527.239990>
+2024-12-22_01-01-53 - Using random spawns for Locked_Car_Container
+2024-12-22_01-01-53 - Spawned random crate at position: <2991.050049, 22.625000, 4113.189941>
+2024-12-22_01-32-20 - Refreshed crate at new position: <8571.990234, 2.976660, 6060.009766>
+2024-12-22_01-32-20 - Refreshed crate at new position: <3557.590088, 12.585700, 8854.610352>
+2024-12-22_01-32-20 - Refreshed crate at new position: <2971.820068, 22.547701, 3818.989990>
+2024-12-22_01-32-20 - Refreshed crate at new position: <3074.340088, 22.462500, 4065.189941>
+2024-12-22_01-32-20 - Refreshed crate at new position: <3742.899902, 9.477260, 8828.179688>
+2024-12-22_02-02-48 - Refreshed crate at new position: <13329.299805, 12.922500, 9756.190430>
+2024-12-22_02-02-48 - Refreshed crate at new position: <5272.189941, 5.013200, 9107.349609>
+2024-12-22_02-02-48 - Refreshed crate at new position: <5527.319824, 34.852501, 688.247009>
+2024-12-22_02-02-48 - Refreshed crate at new position: <5493.660156, 34.852501, 713.405029>
+2024-12-22_02-02-48 - Refreshed crate at new position: <8791.209961, 45.432499, 3794.659912>
+2024-12-22_02-33-17 - Refreshed crate at new position: <1921.420044, 9.202500, 8912.929688>
+2024-12-22_02-33-17 - Refreshed crate at new position: <3709.030029, 11.420000, 8683.019531>
+2024-12-22_02-33-17 - Refreshed crate at new position: <3074.340088, 22.462500, 4065.189941>
+2024-12-22_02-33-17 - Refreshed crate at new position: <2971.820068, 22.547701, 3818.989990>
+2024-12-22_02-33-17 - Refreshed crate at new position: <13329.299805, 12.922500, 9756.190430>

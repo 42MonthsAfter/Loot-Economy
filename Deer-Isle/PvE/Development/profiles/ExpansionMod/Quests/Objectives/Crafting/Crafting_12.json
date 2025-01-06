@@ -1,0 +1,12 @@
+{
+    "ConfigVersion": 28,
+    "ID": 12,
+    "ObjectiveType": 11,
+    "ObjectiveText": "Beginner: Craft a Improvised Fur Bag",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ItemNames": [
+        "FurImprovisedBag"
+    ],
+    "ExecutionAmount": 1
+}

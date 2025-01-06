@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 6,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Visit East Harbor",
+    "TimeLimit": 7200,
+    "Active": 1,
+    "Position": [
+        11714.9, 
+        6.4425,
+        9962.59
+    ],
+    "MaxDistance": 1.0,
+    "MarkerName": "East Harbor",
+    "ShowDistance": 0,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

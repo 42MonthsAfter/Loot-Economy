@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 9,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Explore the Devil's Eye",
+    "TimeLimit": 7200,
+    "Active": 1,
+    "Position": [
+        6671.48, 
+        156.084, 
+        3440.17
+    ],
+    "MaxDistance": 1.0,
+    "MarkerName": "Devil's Eye",
+    "ShowDistance": 0,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

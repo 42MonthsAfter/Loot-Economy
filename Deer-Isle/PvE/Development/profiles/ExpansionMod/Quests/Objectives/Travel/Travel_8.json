@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 8,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Explore the Plane Crash",
+    "TimeLimit": 7200,
+    "Active": 1,
+    "Position": [
+        7014.61, 
+        4.76591, 
+        9700.91
+    ],
+    "MaxDistance": 1.0,
+    "MarkerName": "Plane Crash",
+    "ShowDistance": 0,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

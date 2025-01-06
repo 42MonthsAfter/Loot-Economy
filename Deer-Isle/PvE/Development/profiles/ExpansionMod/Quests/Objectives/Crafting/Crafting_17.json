@@ -1,0 +1,12 @@
+{
+    "ConfigVersion": 28,
+    "ID": 17,
+    "ObjectiveType": 11,
+    "ObjectiveText": "Beginner: Craft a Long Torch",
+    "TimeLimit": -1,
+    "Active": 1,
+    "ItemNames": [
+        "LongTorch"
+    ],
+    "ExecutionAmount": 1
+}

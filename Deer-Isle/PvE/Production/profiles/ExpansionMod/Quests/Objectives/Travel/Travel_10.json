@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 10,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Explore the Woman in the Water",
+    "TimeLimit": 7200,
+    "Active": 1,
+    "Position": [
+        6068.11, 
+        -0.771344, 
+        9595.94
+    ],
+    "MaxDistance": 1.0,
+    "MarkerName": "Woman in the Water",
+    "ShowDistance": 0,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

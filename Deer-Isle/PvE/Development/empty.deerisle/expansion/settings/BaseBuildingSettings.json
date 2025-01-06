@@ -1,0 +1,220 @@
+{
+    "m_Version": 4,
+    "CanBuildAnywhere": 1,
+    "AllowBuildingWithoutATerritory": 1,
+    "DeployableOutsideATerritory": [
+        "ExpansionSatchel",
+        "Fireplace",
+        "TerritoryFlagKit",
+        "MediumTent",
+        "LargeTent",
+        "CarTent",
+        "PartyTent",
+        "ExpansionCamoTentKit",
+        "ExpansionCamoBoxKit",
+        "ShelterKit",
+        "LandMineTrap",
+        "BearTrap",
+        "FishNetTrap",
+        "RabbitSnareTrap",
+        "SmallFishTrap",
+        "TripwireTrap",
+        "ExpansionSafeLarge",
+        "ExpansionSafeMedium",
+        "ExpansionSafeSmall",
+        "SeaChest",
+        "WoodenCrate",
+        "GardenPlot"
+    ],
+    "DeployableInsideAEnemyTerritory": [
+        "ExpansionSatchel",
+        "LandMineTrap",
+        "BearTrap",
+        "FishNetTrap",
+        "RabbitSnareTrap",
+        "SmallFishTrap",
+        "TripwireTrap"
+    ],
+    "CanCraftVanillaBasebuilding": 1,
+    "CanCraftExpansionBasebuilding": 0,
+    "DestroyFlagOnDismantle": 1,
+    "DismantleOutsideTerritory": 0,
+    "DismantleInsideTerritory": 0,
+    "DismantleAnywhere": 0,
+    "CodelockActionsAnywhere": 1,
+    "CodeLockLength": 6,
+    "DoDamageWhenEnterWrongCodeLock": 0,
+    "DamageWhenEnterWrongCodeLock": 0.0,
+    "RememberCode": 1,
+    "CanCraftTerritoryFlagKit": 1,
+    "SimpleTerritory": 1,
+    "AutomaticFlagOnCreation": 1,
+    "GetTerritoryFlagKitAfterBuild": 0,
+    "BuildZoneRequiredCustomMessage": "",
+    "Zones": [
+        {
+            "Name": "Alcatraz",
+            "Center": [
+                15747.4, 
+                57.5213,  
+                4842.82
+            ],
+            "Radius": 200.0,
+            "Items": [],
+            "IsWhitelist": 1,
+            "CustomMessage": "No building in this area."
+        },
+        {
+            "Name": "Temple",
+            "Center": [
+                318.989, 
+                47.0825, 
+                846.85
+            ],
+            "Radius": 1000.0,
+            "Items": [],
+            "IsWhitelist": 1,
+            "CustomMessage": "No building in this area."
+        },
+        {
+            "Name": "CampBear",
+            "Center": [
+                8886.09,  
+                22.2099,
+                5983.76
+            ],
+            "Radius": 160.0,
+            "Items": [],
+            "IsWhitelist": 1,
+            "CustomMessage": "No building in this area."
+        },
+        {
+            "Name": "CampEagle",
+            "Center": [
+                8822.4,  
+                45.42, 
+                3774.31
+            ],
+            "Radius": 100.0,
+            "Items": [],
+            "IsWhitelist": 1,
+            "CustomMessage": "No building in this area."
+        },
+        {
+            "Name": "KMUC",
+            "Center": [
+                7195.04, 
+                587.816, 
+                11630.9
+            ],
+            "Radius": 300.0,
+            "Items": [],
+            "IsWhitelist": 1,
+            "CustomMessage": "No building in this area."
+        },
+        {
+            "Name": "ACFI",
+            "Center": [
+                3730.51,  
+                9.47328,
+                8819.82
+            ],
+            "Radius": 160.0,
+            "Items": [],
+            "IsWhitelist": 1,
+            "CustomMessage": "No building in this area."
+        },
+        {
+            "Name": "Area42",
+            "Center": [
+                13397.1, 
+                12.94, 
+                9879.34
+            ],
+            "Radius": 600.0,
+            "Items": [],
+            "IsWhitelist": 1,
+            "CustomMessage": "No building in this area."
+        },
+        {
+            "Name": "PowerPlant",
+            "Center": [
+                4707.8, 
+                20.43, 
+                7079.84 
+            ],
+            "Radius": 100.0,
+            "Items": [],
+            "IsWhitelist": 1,
+            "CustomMessage": "No building in this area."
+        },
+        {
+            "Name": "Airfied",
+            "Center": [
+                5476.85, 
+                74, 
+                3513.46
+            ],
+            "Radius": 200.0,
+            "Items": [],
+            "IsWhitelist": 1,
+            "CustomMessage": "No building in this area."
+        },
+        {
+            "Name": "TheHoller",
+            "Center": [
+                5626.7,  
+                28.7225, 
+                5385.63
+            ],
+            "Radius": 200.0,
+            "Items": [],
+            "IsWhitelist": 1,
+            "CustomMessage": "No building in this area."
+        },
+        {
+            "Name": "PrisonIsland",
+            "Center": [
+                5371.5, 
+                38.2319, 
+                703.606
+            ],
+            "Radius": 398.0,
+            "Items": [],
+            "IsWhitelist": 1,
+            "CustomMessage": "No building in this area."
+        },
+        {
+            "Name": "ParisIsland",
+            "Center": [
+                2892.28, 
+                22.45, 
+                4131.39
+            ],
+            "Radius": 448.0,
+            "Items": [],
+            "IsWhitelist": 1,
+            "CustomMessage": "No building in this area."
+        },
+        {
+            "Name": "ParisIsland",
+            "Center": [
+                2862.25,  
+                22.45, 
+                3749.76
+            ],
+            "Radius": 510.0,
+            "Items": [],
+            "IsWhitelist": 1,
+            "CustomMessage": "No building in this area."
+        }
+    ],
+    "ZonesAreNoBuildZones": 1,
+    "CodelockAttachMode": 1,
+    "DismantleFlagMode": 1,
+    "FlagMenuMode": 1,
+    "EnableVirtualStorage": 1,
+    "VirtualStorageExcludedContainers": [
+        "ExpansionAirdropContainerBase"
+    ]
+}

@@ -1,0 +1,29 @@
+2024-12-22_23-02-06 - Setting up crate spawns.
+2024-12-22_23-02-06 - Using random spawns for Locked_Rust_Crate
+2024-12-22_23-02-06 - Spawned random crate at position: <11338.000000, 14.792500, 10056.799805>
+2024-12-22_23-02-06 - Spawned random crate at position: <5272.189941, 5.013200, 9107.349609>
+2024-12-22_23-02-06 - Spawned random crate at position: <3074.340088, 22.462500, 4065.189941>
+2024-12-22_23-02-06 - Using random spawns for Locked_Armoury_Container
+2024-12-22_23-02-06 - Spawned random crate at position: <3709.030029, 11.420000, 8683.019531>
+2024-12-22_23-02-06 - Using random spawns for Locked_Car_Container
+2024-12-22_23-02-06 - Spawned random crate at position: <14185.099609, 137.451996, 2689.780029>
+2024-12-22_23-32-34 - Refreshed crate at new position: <1921.420044, 9.202500, 8912.929688>
+2024-12-22_23-32-34 - Refreshed crate at new position: <3557.590088, 12.585700, 8854.610352>
+2024-12-22_23-32-34 - Refreshed crate at new position: <1439.439941, 8.480200, 15580.799805>
+2024-12-22_23-32-34 - Refreshed crate at new position: <5460.939941, 74.012497, 3679.969971>
+2024-12-22_23-32-34 - Refreshed crate at new position: <8811.089844, 45.506001, 3823.199951>
+2024-12-23_00-03-02 - Refreshed crate at new position: <6132.939941, 8.182860, 14618.900391>
+2024-12-23_00-03-02 - Refreshed crate at new position: <1439.439941, 8.480200, 15580.799805>
+2024-12-23_00-03-02 - Refreshed crate at new position: <5527.319824, 34.852501, 688.247009>
+2024-12-23_00-03-02 - Refreshed crate at new position: <13403.500000, 12.952500, 9992.719727>
+2024-12-23_00-03-02 - Refreshed crate at new position: <10885.299805, 5.581810, 10357.900391>
+2024-12-23_00-33-30 - Refreshed crate at new position: <8571.990234, 2.976660, 6060.009766>
+2024-12-23_00-33-30 - Refreshed crate at new position: <5599.600098, 74.012497, 3829.399902>
+2024-12-23_00-33-30 - Refreshed crate at new position: <3074.340088, 22.462500, 4065.189941>
+2024-12-23_00-33-30 - Refreshed crate at new position: <1439.439941, 8.480200, 15580.799805>
+2024-12-23_00-33-30 - Refreshed crate at new position: <11338.000000, 14.792500, 10056.799805>
+2024-12-23_01-03-58 - Refreshed crate at new position: <1439.439941, 8.480200, 15580.799805>
+2024-12-23_01-03-58 - Refreshed crate at new position: <8901.599609, 23.869499, 5995.540039>
+2024-12-23_01-03-58 - Refreshed crate at new position: <3742.899902, 9.477260, 8828.179688>
+2024-12-23_01-03-58 - Refreshed crate at new position: <5848.419922, 74.012497, 3607.669922>
+2024-12-23_01-03-58 - Refreshed crate at new position: <10875.099609, 45.926201, 2284.739990>

@@ -1,0 +1,84 @@
+{
+    "ConfigVersion": 28,
+    "ID": 13,
+    "Type": 11,
+    "Title": "Crafting: Long Nights Need Long Lights",
+    "Descriptions": [
+        "We are heading out for some night scavenging, don't ask me why, this seems totally unsafe. Anyway, we could use some torches if anyone has any extra just laying around. You can take your pick from these few items I have for trade. -Stinky Pete-",
+        "Still working on it? I get it, things are rough outside these walls.",
+        "Look at that..."
+    ],
+    "ObjectiveText": "Craft a Long Torch",
+    "FollowUpQuest": 0,
+    "Repeatable": 0,
+    "IsDailyQuest": 0,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "CookingStand",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "Pot",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        },
+        {
+            "ClassName": "Canteen",
+            "Amount": 1,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 1,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        1
+    ],
+    "QuestTurnInIDs": [
+        1
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 13,
+            "ObjectiveType": 11
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        12
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 0,
+    "SequentialObjectives": 0,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

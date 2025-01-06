@@ -1,0 +1,3849 @@
+{
+    "m_Version": 22,
+    "Enabled": 1,
+    "DespawnTime": 600.0,
+    "RespawnTime": -1.0,
+    "MinDistRadius": 400.0,
+    "MaxDistRadius": 600.0,
+    "DespawnRadius": 1000.0,
+    "AccuracyMin": -1.0,
+    "AccuracyMax": -1.0,
+    "ThreatDistanceLimit": -1.0,
+    "NoiseInvestigationDistanceLimit": -1.0,
+    "DamageMultiplier": -1.0,
+    "DamageReceivedMultiplier": -1.0,
+    "ObjectPatrols": [
+        {
+            "Name": "Tier 02 Patrol",
+            "Persist": 1,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "Loadout": "BanditLoadout",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "HALT_OR_ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -1.0,
+            "MaxDistRadius": -1.0,
+            "DespawnRadius": -1.0,
+            "MinSpreadRadius": 5.0,
+            "MaxSpreadRadius": 20.0,
+            "Chance": 1,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "ClassName": "Wreck_UH1Y"
+        },
+        {
+            "Name": "Tier 02 Patrol",
+            "Persist": 1,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "Loadout": "BanditLoadout",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "HALT_OR_ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -1.0,
+            "MaxDistRadius": -1.0,
+            "DespawnRadius": -1.0,
+            "MinSpreadRadius": 5.0,
+            "MaxSpreadRadius": 20.0,
+            "Chance": 1,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "ClassName": "Wreck_Mi8_Crashed"
+        },
+        {
+            "Name": "Tier 02 Patrol",
+            "Persist": 1,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "Loadout": "NBCLoadout",
+            "Units": [],
+            "NumberOfAI": 3,
+            "Behaviour": "HALT_OR_ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -1.0,
+            "MaxDistRadius": -1.0,
+            "DespawnRadius": -1.0,
+            "MinSpreadRadius": 0.0,
+            "MaxSpreadRadius": 150.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "ClassName": "ContaminatedArea_Static"
+        }
+    ],
+    "Patrols": [
+        {
+            "Name": "Holler Patrol",
+            "Persist": 1,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "Loadout": "BanditLoadout",
+            "Units": [],
+            "NumberOfAI":  3,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -1.0,
+            "MaxDistRadius": -1.0,
+            "DespawnRadius": -1.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.5,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    5469.3, 
+                    108.271, 
+                    5185.04
+                ],
+                [
+                    5358.26, 
+                    8.49462, 
+                    5446.32
+                ],
+                [
+                    5452.56, 
+                    105.052, 
+                    5740.29
+                ],
+                [
+                    5758.45, 
+                    75.9906, 
+                    5638.47
+                ],
+                [
+                    5808.3, 
+                    70.5969, 
+                    5345.65
+                ]
+            ]
+        },
+        {
+            "Name": "RCFI Tier 02 Patrol",
+            "Persist": 1,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "Loadout": "BanditLoadout",
+            "Units": [],
+            "NumberOfAI":  3,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -1.0,
+            "MaxDistRadius": -1.0,
+            "DespawnRadius": -1.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.75,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    3742.68,
+                    11.4201,
+                    8671.01
+                ],
+                [
+                    3741.6, 
+                    12.1239, 
+                    8729.73
+                ],
+                [
+                    3718.65, 
+                    12.6801, 
+                    8731.47
+                ],
+                [
+                    3730.44, 
+                    9.36666, 
+                    8888.04
+                ],
+                [
+                    3778.86, 
+                    15.2082, 
+                    8886.28
+                ],
+                [
+                    3778.11, 
+                    16.0125, 
+                    946.68
+                ],
+                [
+                    3685.47, 
+                    12.804, 
+                    8941.29
+                ],
+                [
+                    3687.81, 
+                    13.623, 
+                    8915.49
+                ],
+                [
+                    3604.13, 
+                    14.2971, 
+                    8916.81
+                ],
+                [
+                    3603.94, 
+                    14.2971, 
+                    8729.58
+                ]
+            ]
+        },
+        {
+            "Name": "East Coast Main Strip Tier 02 Patrol",
+            "Persist": 1,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "Loadout": "BanditLoadout",
+            "Units": [],
+            "NumberOfAI":  3,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -1.0,
+            "MaxDistRadius": -1.0,
+            "DespawnRadius": -1.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.5,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    6015.15, 
+                    32.5267, 
+                    6973.65
+                ],
+                [
+                    6142.54, 
+                    31.7646,
+                    6893.72
+                ],
+                [
+                    6316.55, 
+                    21.0112,
+                    6818.79
+                ],
+                [
+                    6561.67, 
+                    16.9762, 
+                    6591.76
+                ],
+                [
+                    6609.19,
+                    15.09, 
+                    6484.62
+                ],
+                [
+                    6615.02, 
+                    15.09, 
+                    6363.06
+                ],
+                [
+                    6690.79, 
+                    15.0871, 
+                    6254.83
+                ]
+            ]
+        },
+        {
+            "Name": "Swanviller Tier 02 Patrol",
+            "Persist": 1,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "Loadout": "BanditLoadout",
+            "Units": [],
+            "NumberOfAI":  3,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -1.0,
+            "MaxDistRadius": -1.0,
+            "DespawnRadius": -1.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.5,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    5275.07, 
+                    4.7825, 
+                    12302.8
+                ],
+                [
+                    5268.53, 
+                    4.7825, 
+                    12247.8
+                ],
+                [
+                    5227.11,
+                     4.7825, 
+                     12258.5
+                ],
+                [
+                    5238.04, 
+                    4.7825, 
+                    12399.8
+                ],
+                [
+                    5337.28, 
+                    4.7825, 
+                    12438.5
+                ],
+                [
+                    5257.07, 
+                    4.78247, 
+                    12491.7
+                ]
+            ]
+        },
+        {
+            "Name": "Hazelands Tier 02 Patrol",
+            "Persist": 1,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "Loadout": "BanditLoadout",
+            "Units": [],
+            "NumberOfAI":  3,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -1.0,
+            "MaxDistRadius": -1.0,
+            "DespawnRadius": -1.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.5,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    5257.07, 
+                    4.78247, 
+                    12491.7
+                ],
+                [
+                    4490.63, 
+                    3.8, 
+                    2790.23
+                ],
+                [
+                    4561.52, 
+                    2.67429, 
+                    2725.08
+                ],
+                [
+                    4576.77, 
+                    2.65, 
+                    2676.25
+                ],
+                [
+                    4633.23, 
+                    2.65, 
+                    2684.64
+                ],
+                [
+                    4713.33, 
+                    4.0729, 
+                    2655.65
+                ]
+            ]
+        },
+        {
+            "Name": "Stonington Tier 02 Patrol",
+            "Persist": 1,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "Loadout": "BanditLoadout",
+            "Units": [],
+            "NumberOfAI":  3,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -1.0,
+            "MaxDistRadius": -1.0,
+            "DespawnRadius": -1.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.5,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    6889.17, 
+                    38.82, 
+                    1901.26
+                ],
+                [
+                    6891.04, 
+                    39.6322, 
+                    1812.99
+                ],
+                [
+                    6985.08, 
+                    38.8811, 
+                    1816.42
+                ],
+                [
+                    6983.61, 
+                    38.82, 
+                    1968.39
+                ],
+                [
+                    6982.34, 
+                    38.8508, 
+                    2048.25
+                ],
+                [
+                    6875.36, 
+                    38.82, 
+                    2049.72
+                ]
+            ]
+        },
+        {
+            "Name": "Westbrook Tier 02 Patrol",
+            "Persist": 1,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "Loadout": "BanditLoadout",
+            "Units": [],
+            "NumberOfAI":  3,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -1.0,
+            "MaxDistRadius": -1.0,
+            "DespawnRadius": -1.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.5,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    3231.37, 
+                    22.38, 
+                    6130.73
+                ],
+                [
+                    3258.57, 
+                    22.38, 
+                    6218.26
+                ],
+                [
+                    3316.92, 
+                    22.38, 
+                    6230.62
+                ],
+                [
+                    3282.27, 
+                    20.5618, 
+                    6341.11
+                ],
+                [
+                    3231.09, 
+                    20.651, 
+                    6322.5
+                ],
+                [
+                    3213.82,
+                    20.43, 
+                    6396.43
+                ],
+                [
+                    3217.13, 
+                    20.43, 
+                    6457.39
+                ],
+                [
+                    3334.34, 
+                    20.43, 
+                    6464.22
+                ],
+                [
+                    3334.37, 
+                    20.9812, 
+                    6518.15
+                ],
+                [
+                    3432.5, 
+                    20.43, 
+                    6605.18
+                ]
+            ]
+        },
+        {
+            "Name": "Mountainville Tier 02 Patrol",
+            "Persist": 1,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "Loadout": "BanditLoadout",
+            "Units": [],
+            "NumberOfAI":  3,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "JOG",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -1.0,
+            "MaxDistRadius": -1.0,
+            "DespawnRadius": -1.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.5,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    7355.64, 
+                    6.6625, 
+                    8467.42
+                ],
+                [
+                    7309.94,
+                    7.41148, 
+                    8389.98
+                ],
+                [
+                    7231.7, 
+                    6.6625, 
+                    8432.4
+                ],
+                [
+                    7272.04, 
+                    6.6625, 
+                    8508.17
+                ],
+                [
+                    7273.09, 
+                    6.6625, 
+                    8552.76
+                ],
+                [
+                    7256.5, 
+                    6.6625, 
+                    8607.04
+                ],
+                [
+                    7217.3, 
+                    6.66248, 
+                    8593.85
+                ],
+                [
+                    7231.63, 
+                    6.6625, 
+                    8559.92
+                ]
+            ]
+        },
+        {
+            "Name": "Waldoboro Tier 02 Patrol",
+            "Persist": 1,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "Loadout": "BanditLoadout",
+            "Units": [],
+            "NumberOfAI":  3,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "JOG",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -1.0,
+            "MaxDistRadius": -1.0,
+            "DespawnRadius": -1.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.5,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    8854.93, 
+                    5.1131, 
+                    8630.31
+                ],
+                [
+                    8929.39, 
+                    5.13, 
+                    8841.94
+                ],
+                [
+                    8549.25, 
+                    5.13, 
+                    9051.6
+                ],
+                [
+                    8414.04, 
+                    5.13, 
+                    9004.58
+                ],
+                [
+                    8312.15, 
+                    5.13, 
+                    8875.25
+                ],
+                [
+                    8335.24, 
+                    5.13, 
+                    9320.8
+                ],
+                [
+                    8724.9, 
+                    6.27778, 
+                    9438.72
+                ]
+            ]
+        },
+        {
+            "Name": "Raceway Tier 02 Patrol",
+            "Persist": 1,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "Loadout": "BanditLoadout",
+            "Units": [],
+            "NumberOfAI":  3,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -1.0,
+            "MaxDistRadius": -1.0,
+            "DespawnRadius": -1.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.5,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    10236.8, 
+                    21.77, 
+                    10913.5
+                ],
+                [
+                    9874.36, 
+                    16.1126, 
+                    10756.7
+                ],
+                [
+                    9847.9, 
+                    14.1218, 
+                    10766.7
+                ],
+                [
+                    9819.67, 
+                    15.1172, 
+                    10848.2
+                ],
+                [
+                    10092.3, 
+                    21.7825, 
+                    10987.5
+                ]
+            ]
+        },
+        {
+            "Name": "Bayville Tier 02 Patrol",
+            "Persist": 1,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "Loadout": "BanditLoadout",
+            "Units": [],
+            "NumberOfAI":  3,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -1.0,
+            "MaxDistRadius": -1.0,
+            "DespawnRadius": -1.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.5,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    10180.8, 
+                    3.5398, 
+                    11981.9
+                ],
+                [
+                    10130.4, 
+                    5.5926, 
+                    11971.9
+                ],
+                [
+                    10035.2, 
+                    9.13176, 
+                    12151.2
+                ],
+                [
+                    10080.5, 
+                    7.25284, 
+                    12139.3
+                ],
+                [
+                    10212.4, 
+                    5.85847, 
+                    12159
+                ],
+                [
+                    10226.6, 
+                    5.53445, 
+                    12146.1
+                ],
+                [
+                    10223.6, 
+                    5.98391, 
+                    12085.9
+                ]
+            ]
+        },
+        {
+            "Name": "Old Town Tier 02 Patrol",
+            "Persist": 1,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "Loadout": "BanditLoadout",
+            "Units": [],
+            "NumberOfAI":  3,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -1.0,
+            "MaxDistRadius": -1.0,
+            "DespawnRadius": -1.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.5,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    1970.31, 
+                    9.2025, 
+                    9053.6
+                ],
+                [
+                    1919.33, 
+                    9.19, 
+                    9051.6
+                ],
+                [
+                    1864.8, 
+                    9.19, 
+                    9083.68
+                ],
+                [
+                    1840.74, 
+                    9.19,  
+                    9023.79
+                ],
+                [
+                    1838.6, 
+                    9.19, 
+                    8962.31
+                ],
+                [
+                    1937.51, 
+                    9.19, 
+                    8922.21
+                ],
+                [
+                    2041.77,  
+                    9.19,
+                    9049.46
+                ]
+            ]
+        },
+        {
+            "Name": "North Haven 01 Tier 02 Patrol",
+            "Persist": 1,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "Loadout": "BanditLoadout",
+            "Units": [],
+            "NumberOfAI":  3,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -1.0,
+            "MaxDistRadius": -1.0,
+            "DespawnRadius": -1.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.75,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    1345.4, 
+                    8.32, 
+                    15676.8
+                ],
+                [
+                    1357.22, 
+                    8.32, 
+                    15611.6
+                ],
+                [
+                    1266.22,  
+                    8.32,
+                    15556.8
+                ],
+                [
+                    1383.04,  
+                    8.32, 
+                    15401.6
+                ],
+                [
+                    1582.46,  
+                    8.32,
+                    15545.1
+                ],
+                [
+                    1680.32, 
+                    8.32, 
+                    15722.3
+                ],
+                [
+                    1567.9, 
+                    8.32, 
+                    15654.5
+                ]
+            ]
+        },
+        {
+            "Name": "North Haven 02 Tier 02 Patrol",
+            "Persist": 1,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "Loadout": "BanditLoadout",
+            "Units": [],
+            "NumberOfAI":  3,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -1.0,
+            "MaxDistRadius": -1.0,
+            "DespawnRadius": -1.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.75,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    1059.13,  
+                    15.23,
+                    15043
+                ],
+                [
+                    947.904, 
+                    13.3633, 
+                    15094.8
+                ],
+                [
+                    835.795, 
+                    8.15949, 
+                    15096
+                ],
+                [
+                    800.369, 
+                    8.12, 
+                    15051
+                ],
+                [
+                    752.095, 
+                    8.12, 
+                    14978.7
+                ],
+                [
+                    684.287,  
+                    8.12, 
+                    15032.2
+                ],
+                [
+                    706.628, 
+                    8.12, 
+                    15075
+                ]
+            ]
+        },
+        {
+            "Name": "North East Island Tier 02 Patrol",
+            "Persist": 1,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "Loadout": "BanditLoadout",
+            "Units": [],
+            "NumberOfAI":  3,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -1.0,
+            "MaxDistRadius": -1.0,
+            "DespawnRadius": -1.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.75,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    9805.18, 
+                    48.1185, 
+                    15197.2
+                ],
+                [
+                    9926.15, 
+                    41.5697,  
+                    115300.2
+                ],
+                [
+                    10045.3, 
+                    49.143, 
+                    15045.4
+                ],
+                [
+                    9941.48,  
+                    49.1594,
+                    14988.8
+                ],
+                [
+                    9856.33,  
+                    49.143,
+                    14835.4
+                ],
+                [
+                    9779.68,  
+                    48.3239, 
+                    14874.3
+                ],
+                [
+                    9802.08, 
+                    48.2276,  
+                    15195.1
+                ]
+            ]
+        },
+        {
+            "Name": "Portland Tier 02 Patrol",
+            "Persist": 1,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "Loadout": "BanditLoadout",
+            "Units": [],
+            "NumberOfAI":  3,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "JOG",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -1.0,
+            "MaxDistRadius": -1.0,
+            "DespawnRadius": -1.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.5,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    6047.11, 
+                    5.88, 
+                    14893.4
+                ],
+                [
+                    6045.79, 
+                    5.88, 
+                    14708.9
+                ],
+                [
+                    6153.19, 
+                    5.88, 
+                    14706.9
+                ],
+                [
+                    6153, 
+                    5.88, 
+                    14429.9
+                ],
+                [
+                    5923.71, 
+                    5.88, 
+                    14431.9
+                ],
+                [
+                    5934.88, 
+                    5.88, 
+                    14280.1
+                ],
+                [
+                    5963.22, 
+                    5.88, 
+                    14276.9
+                ],
+                [
+                    5964.01, 
+                    5.88, 
+                    13986.2
+                ],
+                [
+                    6153.11, 
+                    25.9183, 
+                    13986.2
+                ]
+            ]
+        },
+        {
+            "Name": "Oceanville",
+            "Persist": 1,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "Loadout": "BanditLoadout",
+            "Units": [],
+            "NumberOfAI":  3,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -1.0,
+            "MaxDistRadius": -1.0,
+            "DespawnRadius": -1.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.5,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    6153.11, 
+                    25.9183, 
+                    13986.2
+                ],
+                [
+                    10242, 
+                    38.6594, 
+                    4790.58
+                ],
+                [
+                    10243.5, 
+                    41.4991, 
+                    4841.38
+                ],
+                [
+                    10219.8, 
+                    41.7045, 
+                    4945.88
+                ],
+                [
+                    10237, 
+                    44.673, 
+                    5125.79
+                ],
+                [
+                    10134.7, 
+                    53.0704, 
+                    5122.93
+                ]
+            ]
+        },
+        {
+            "Name": "Pear Plantation to Threepwood Tier 02 Patrol",
+            "Persist": 1,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "Loadout": "BanditLoadout",
+            "Units": [],
+            "NumberOfAI":  3,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "JOG",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -1.0,
+            "MaxDistRadius": -1.0,
+            "DespawnRadius": -1.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.5,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    9563.92, 
+                    23.7941, 
+                    7645.72
+                ],
+                [
+                    9482.63, 
+                    21.1394, 
+                    7481.59
+                ],
+                [
+                    9448.45, 
+                    25.646, 
+                    7510.62
+                ],
+                [
+                    9417.14, 
+                    29.6117, 
+                    7551.8
+                ],
+                [
+                    9291.96, 
+                    18.8828, 
+                    7634.24
+                ],
+                [
+                    9261.91, 
+                    16.5455, 
+                    7681.2
+                ],
+                [
+                    9183.62, 
+                    28.4248, 
+                    7738.36
+                ],
+                [
+                    9124.38, 
+                    35.4691, 
+                    7702.62
+                ],
+                [
+                    9047.26, 
+                    35.48, 
+                    7706.14
+                ],
+                [
+                    9053.56, 
+                    35.48, 
+                    7759.19
+                ]
+            ]
+        },
+        {
+            "Name": "East Harbor Tier 02 Patrol",
+            "Persist": 1,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "Loadout": "BanditLoadout",
+            "Units": [],
+            "NumberOfAI":  3,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -1.0,
+            "MaxDistRadius": -1.0,
+            "DespawnRadius": -1.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.75,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    9053.56,
+                    35.48, 
+                    7759.19
+                ],
+                [
+                    11560, 
+                    5.44104, 
+                    10060.4
+                ],
+                [
+                    11478.9, 
+                    5.3925, 
+                    10091.2
+                ],
+                [
+                    11438.6,
+                    5.46916, 
+                    9991.96
+                ],
+                [
+                    11381.6, 
+                    5.45924, 
+                    9863.86
+                ]
+            ]
+        },
+        {
+            "Name": "Camp Eagle Tier 02 Patrol",
+            "Persist": 1,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "Loadout": "BanditLoadout",
+            "Units": [],
+            "NumberOfAI":  3,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -1.0,
+            "MaxDistRadius": -1.0,
+            "DespawnRadius": -1.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.75,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    8890.33, 
+                    45.4733, 
+                    3817.68
+                ],
+                [
+                    8817.72, 
+                    45.5296, 
+                    3820.18
+                ],
+                [
+                    8815.29, 
+                    45.4324, 
+                    3781.88
+                ],
+                [
+                    8856.85, 
+                    45.5615, 
+                    3770.95
+                ],
+                [
+                    8849.56, 
+                    45.4325, 
+                    3727.9
+                ],
+                [
+                    8805.33, 
+                    45.42, 
+                    3734.82
+                ],
+                [
+                    8790.22, 
+                    45.4497, 
+                    3763.96
+                ],
+                [
+                    8743.16, 
+                    45.42, 
+                    3777.67
+                ]
+            ]
+        },
+        {
+            "Name": "Camp Bear Tier 02 Patrol",
+            "Persist": 1,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "Loadout": "BanditLoadout",
+            "Units": [],
+            "NumberOfAI":  3,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -1.0,
+            "MaxDistRadius": -1.0,
+            "DespawnRadius": -1.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.75,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    8568.96, 
+                    2.30786, 
+                    6065.34
+                ],
+                [
+                    8568.68, 
+                    3.17882, 
+                    6035.48
+                ],
+                [
+                    8601.18, 
+                    5.29327, 
+                    6035.14
+                ],
+                [
+                    8617.95, 
+                    4.77106, 
+                    6009.99
+                ],
+                [
+                    8671.96, 
+                    8.73276, 
+                    6009.92
+                ],
+                [
+                    8700.79, 
+                    11.1102, 
+                    5994.6
+                ],
+                [
+                    8780.01, 
+                    17.0567, 
+                    5990.58
+                ],
+                [
+                    8804.88, 
+                    20.6461, 
+                    5966.91
+                ],
+                [
+                    8869.37, 
+                    22.7648, 
+                    5986.43
+                ],
+                [
+                    8913.13, 
+                    21.5515, 
+                    5977.66
+                ],
+                [
+                    8925.92, 
+                    19.8022, 
+                    5947.96
+                ],
+                [
+                    8957.58, 
+                    18.2251, 
+                    5945.14
+                ]
+            ]
+        },
+        {
+            "Name": "Georgetown Tier 02 Patrol",
+            "Persist": 1,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "Loadout": "BanditLoadout",
+            "Units": [],
+            "NumberOfAI":  3,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "JOG",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -1.0,
+            "MaxDistRadius": -1.0,
+            "DespawnRadius": -1.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.5,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    4950.96, 
+                    21.1325, 
+                    4421.96
+                ],
+                [
+                    4817.67, 
+                    19.3352, 
+                    4369.92
+                ],
+                [
+                    4839.25, 
+                    17.9262, 
+                    4468.93
+                ],
+                [
+                    4804.98, 
+                    17.3624, 
+                    4480.99
+                ],
+                [
+                    4755.47, 
+                    21.251, 
+                    4408.63
+                ],
+                [
+                    4636.15, 
+                    19.1336, 
+                    4485.43
+                ],
+                [
+                    4620.92, 
+                    13.4046, 
+                    4286.77
+                ]
+            ]
+        },
+        {
+            "Name": "Airfield Tier 02 Patrol",
+            "Persist": 1,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "Loadout": "BanditLoadout",
+            "Units": [],
+            "NumberOfAI":  3,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -1.0,
+            "MaxDistRadius": -1.0,
+            "DespawnRadius": -1.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.75,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    5288.52, 
+                    74, 
+                    3924.81
+                ],
+                [
+                    5391.09, 
+                    74, 
+                    3888.18
+                ],
+                [
+                    5364.23, 
+                    74, 
+                    3823.46
+                ],
+                [
+                    5497.93, 
+                    74, 
+                    3832.62
+                ],
+                [
+                    5483.96, 
+                    74, 
+                    3772.72
+                ],
+                [
+                    5445.62, 
+                    74, 
+                    3727.54
+                ],
+                [
+                    5570.04, 
+                    74, 
+                    3707.59
+                ]
+            ]
+        },
+        {
+            "Name": "Crater Island Tier 03 Patrol 01",
+            "Persist": 1,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "Loadout": "GorkaLoadout",
+            "Units": [],
+            "NumberOfAI":  3,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -1.0,
+            "MaxDistRadius": -1.0,
+            "DespawnRadius": -1.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.75,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    10959.8, 
+                    50.5255, 
+                    2375.14
+                ],
+                [
+                    10965.7, 
+                    46.73, 
+                    2348.43
+                ],
+                [
+                    10945.4, 
+                    46.73, 
+                    2339.84
+                ],
+                [
+                    10914.7, 
+                    46.73, 
+                    2301.77
+                ],
+                [
+                    10906.4, 
+                    46.5236, 
+                    2295.32
+                ],
+                [
+                    10863.9, 
+                    45.847, 
+                    2296.94
+                ],
+                [
+                    10741.9, 
+                    33.938, 
+                    2375.23
+                ]
+            ]
+        },
+        {
+            "Name": "Crater Island Tier 03 Patrol 02",
+            "Persist": 1,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "Loadout": "GorkaLoadout",
+            "Units": [],
+            "NumberOfAI":  3,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -1.0,
+            "MaxDistRadius": -1.0,
+            "DespawnRadius": -1.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.75,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    10674.3, 
+                    2.8, 
+                    3051.26
+                ],
+                [
+                    10642.7, 
+                    3.09954, 
+                    3125.92
+                ],
+                [
+                    10758.3, 
+                    2.65, 
+                    3183
+                ],
+                [
+                    10776.3, 
+                    2.65, 
+                    3150.36
+                ],
+                [
+                    10799.5, 
+                    2.65, 
+                    3210.24
+                ],
+                [
+                    10781.9, 
+                    2.65, 
+                    3207.31
+                ],
+                [
+                    10741.9, 
+                    3.938, 
+                    2375.23
+                ],
+                [
+                    10757.6, 
+                    2.65, 
+                    3184.58
+                ],
+                [
+                    10776.3, 
+                    2.65, 
+                    3149.91
+                ],
+                [
+                    10677, 
+                    2.8, 
+                    3050.47
+                ]
+            ]
+        },
+        {
+            "Name": "Crater Island Tier 03 Patrol 03",
+            "Persist": 1,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "Loadout": "GorkaLoadout",
+            "Units": [],
+            "NumberOfAI":  3,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -1.0,
+            "MaxDistRadius": -1.0,
+            "DespawnRadius": -1.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.75,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    13504.2, 5.28665, 4677.92
+                ],
+                [
+                    13390.4, 7.51565, 4583.84
+                ],
+                [
+                    13264, 9.62744, 4676.82
+                ],
+                [
+                    13261.4, 9.21, 4768.45
+                ]
+            ]
+        },
+        {
+            "Name": "Crater Island Tier 03 Patrol 04",
+            "Persist": 1,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "Loadout": "GorkaLoadout",
+            "Units": [],
+            "NumberOfAI":  3,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -1.0,
+            "MaxDistRadius": -1.0,
+            "DespawnRadius": -1.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.75,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    14290.7, 127.061, 2672.6
+                ],
+                [
+                    14205.7, 137.44, 2649.92
+                ],
+                [
+                    14182, 137.435, 2694.18
+                ],
+                [
+                    14135.1, 137.44, 2685.54
+                ],
+                [
+                    14094.7, 137.44, 2648.12
+                ]
+            ]
+        },
+        {
+            "Name": "Crater Island Tier 03 Patrol 05",
+            "Persist": 1,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "Loadout": "GorkaLoadout",
+            "Units": [],
+            "NumberOfAI":  3,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -1.0,
+            "MaxDistRadius": -1.0,
+            "DespawnRadius": -1.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.75,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    12790.6, 21.1, 1425.44
+                ],
+                [
+                    12817.5, 21.1, 1426.02
+                ],
+                [
+                    12894.3, 21.1, 1592.57
+                ],
+                [
+                    12991.4, 21.1, 1557.46
+                ],
+                [
+                    12984.9, 21.1, 1528.51
+                ],
+                [
+                    13022.4, 21.1, 1513.38
+                ],
+                [
+                    13001.8, 21.1, 1436.37
+                ],
+                [
+                    13080.7, 21.1, 1426.82
+                ]
+            ]
+        },
+        {
+            "Name": "Deepwater Tier 03 Patrol",
+            "Persist": 1,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "Loadout": "GorkaLoadout",
+            "Units": [],
+            "NumberOfAI":  3,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -1.0,
+            "MaxDistRadius": -1.0,
+            "DespawnRadius": -1.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.75,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    1573.99, 
+                    31.846, 
+                    12708.6
+                ],
+                [
+                    1618.28, 
+                    31.8456, 
+                    12708
+                ],
+                [
+                    1620.09, 
+                    31.8452, 
+                    12694.4
+                ],
+                [
+                    1649.48, 
+                    31.8457, 
+                    12692.5
+                ],
+                [
+                    1650.36, 
+                    31.847, 
+                    12733.6
+                ],
+                [
+                    1667.45, 
+                    31.8649, 
+                    12734.7
+                ],
+                [
+                    1664.95, 
+                    31.8473, 
+                    12753.8
+                ],
+                [
+                    1690.68, 
+                    31.8459, 
+                    12753.7
+                ]
+            ]
+        },
+        {
+            "Name": "Paris Island Tier 03 Patrol 02",
+            "Persist": 1,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "Loadout": "GorkaLoadout",
+            "Units": [],
+            "NumberOfAI":  3,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -1.0,
+            "MaxDistRadius": -1.0,
+            "DespawnRadius": -1.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.75,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    12790.6, 
+                    21.1, 
+                    1425.44
+                ],
+                [
+                    12817.5, 
+                    21.1, 
+                    1426.02
+                ],
+                [
+                    12894.3, 
+                    21.1, 
+                    1592.57
+                ],
+                [
+                    12991.4, 
+                    21.1, 
+                    1557.46
+                ],
+                [
+                    12984.9, 
+                    21.1, 
+                    1528.51
+                ],
+                [
+                    13022.4, 
+                    21.1, 
+                    1513.38
+                ],
+                [
+                    13001.8, 
+                    21.1, 
+                    1436.37
+                ],
+                [
+                    13080.7, 
+                    21.1, 
+                    1426.82
+                ]
+            ]
+        },
+        {
+            "Name": "Deepwater Tier 03 Patrol",
+            "Persist": 1,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "Loadout": "GorkaLoadout",
+            "Units": [],
+            "NumberOfAI":  3,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -1.0,
+            "MaxDistRadius": -1.0,
+            "DespawnRadius": -1.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.75,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    1573.99, 
+                    31.846, 
+                    12708.6
+                ],
+                [
+                    1618.28, 
+                    31.8456, 
+                    12708
+                ],
+                [
+                    1620.09, 
+                    31.8452, 
+                    12694.4
+                ],
+                [
+                    1649.48, 
+                    31.8457, 
+                    12692.5
+                ],
+                [
+                    1650.36, 
+                    31.847, 
+                    12733.6
+                ],
+                [
+                    1667.45, 
+                    31.8649, 
+                    12734.7
+                ],
+                [
+                    1664.95, 
+                    31.8473, 
+                    12753.8
+                ],
+                [
+                    1690.68, 
+                    31.8459, 
+                    12753.7
+                ]
+            ]
+        },
+        {
+            "Name": "Horizon Tier 03 Patrol",
+            "Persist": 1,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "Loadout": "GorkaLoadout",
+            "Units": [],
+            "NumberOfAI":  3,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -1.0,
+            "MaxDistRadius": -1.0,
+            "DespawnRadius": -1.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.75,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    4041.37, 
+                    31.3431, 
+                    15522.8
+                ],
+                [
+                    4110.97, 
+                    25.0276, 
+                    15521.5
+                ],
+                [
+                    4133.67, 
+                    24.7635, 
+                    15518.6
+                ],
+                [
+                    4142.1, 
+                    24.7635, 
+                    15496.4
+                ],
+                [
+                    4143.86, 
+                    24.9068, 
+                    15484
+                ],
+                [
+                    4165.45,
+                    24.6094, 
+                    15463.5
+                ]
+            ]
+        },
+        {
+            "Name": "Rogue Wave Tier 03 Patrol",
+            "Persist": 1,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "Loadout": "GorkaLoadout",
+            "Units": [],
+            "NumberOfAI":  3,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -1.0,
+            "MaxDistRadius": -1.0,
+            "DespawnRadius": -1.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.75,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    2162.32, 
+                    20.37, 
+                    14614
+                ],
+                [
+                    2164.8, 
+                    20.3699, 
+                    14620.8
+                ],
+                [
+                    2147.11, 
+                    20.371, 
+                    14620.5
+                ],
+                [
+                    2148.75, 
+                    20.371, 
+                    14627.4
+                ]
+            ]
+        },
+        {
+            "Name": "Devils Eye Tier 03 Patrol",
+            "Persist": 1,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "Loadout": "GorkaLoadout",
+            "Units": [],
+            "NumberOfAI":  3,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -1.0,
+            "MaxDistRadius": -1.0,
+            "DespawnRadius": -1.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.75,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    6669.44, 
+                    144.222, 
+                    3407.81
+                ],
+                [
+                    6709.59, 
+                    144.705, 
+                    3461.27
+                ],
+                [
+                    6687.27, 
+                    148.527, 
+                    3526.97
+                ],
+                [
+                    6625.03, 
+                    150.199, 
+                    3545.31
+                ],
+                [
+                    6575.96, 
+                    149.648, 
+                    3506.12
+                ],
+                [
+                    6589.3, 
+                    146.55, 
+                    3422.6
+                ]
+            ]
+        },
+        {
+            "Name": "Devils Eye Tier 03 Patrol",
+            "Persist": 1,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "Loadout": "GorkaLoadout",
+            "Units": [],
+            "NumberOfAI":  3,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -1.0,
+            "MaxDistRadius": -1.0,
+            "DespawnRadius": -1.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.75,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    6669.44, 
+                    144.222, 
+                    3407.81
+                ],
+                [
+                    6709.59, 
+                    144.705, 
+                    3461.27
+                ],
+                [
+                    6687.27, 
+                    148.527, 
+                    3526.97
+                ],
+                [
+                    6625.03, 
+                    150.199, 
+                    3545.31
+                ],
+                [
+                    6575.96, 
+                    149.648, 
+                    3506.12
+                ],
+                [
+                    6589.3, 
+                    146.55, 
+                    3422.6
+                ]
+            ]
+        },
+        {
+            "Name": "Paris Island Tier 04 Patrol 01",
+            "Persist": 1,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "Loadout": "TTSKOLoadout",
+            "Units": [],
+            "NumberOfAI":  3,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -1.0,
+            "MaxDistRadius": -1.0,
+            "DespawnRadius": -1.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.75,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    6589.54, 
+                    146.596, 
+                    3422.42
+                ],
+                [
+                    2953.39, 
+                    22.45, 
+                    3450.07
+                ],
+                [
+                    2879.67, 
+                    22.45, 
+                    3516.19
+                ],
+                [
+                    2968.59, 
+                    22.45, 
+                    3603.6
+                ],
+                [
+                    2903.05, 
+                    22.45, 
+                    3663.61
+                ],
+                [
+                    3017.24, 
+                    22.45,
+                    3802.29
+                ]
+            ]
+        },
+        {
+            "Name": "Paris Island Tier 04 Patrol 02",
+            "Persist": 1,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "Loadout": "TTSKOLoadout",
+            "Units": [],
+            "NumberOfAI":  3,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -1.0,
+            "MaxDistRadius": -1.0,
+            "DespawnRadius": -1.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.75,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    3009.21, 
+                    22.45, 
+                    3976.74
+                ],
+                [
+                    3078.29, 
+                    22.45, 
+                    3950.75
+                ],
+                [
+                    3187.29, 
+                    22.4456, 
+                    4214.46
+                ],
+                [
+                    3122.51, 
+                    22.45, 
+                    4243.8
+                ],
+                [
+                    3234.05, 
+                    22.8553, 
+                    4500.83
+                ]
+            ]
+        },
+        {
+            "Name": "Paris Island Tier 04 Patrol 03",
+            "Persist": 1,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "Loadout": "TTSKOLoadout",
+            "Units": [],
+            "NumberOfAI":  3,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -1.0,
+            "MaxDistRadius": -1.0,
+            "DespawnRadius": -1.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.75,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    3025.86, 
+                    22.63, 
+                    4288.44
+                ],
+                [
+                    2987.73, 
+                    20.9, 
+                    4203.85
+                ],
+                [
+                    2939.32, 
+                    22.45, 
+                    4093.29
+                ],
+                [
+                    3002.55, 
+                    22.45, 
+                    4062.75
+                ],
+                [
+                    2931.48, 
+                    22.45, 
+                    3908.53
+                ],
+                [
+                    2831.32, 
+                    22.45, 
+                    3765.82
+                ]
+            ]
+        },
+        {
+            "Name": "KMUC Tier 04 Patrol 01",
+            "Persist": 1,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "Loadout": "TTSKOLoadout",
+            "Units": [],
+            "NumberOfAI":  3,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -1.0,
+            "MaxDistRadius": -1.0,
+            "DespawnRadius": -1.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    7228.46, 
+                    602.079, 
+                    11743.3
+                ],
+                [
+                    7230.33, 
+                    601.582, 
+                    11728
+                ],
+                [
+                    7287.28, 
+                    601.582, 
+                    11727
+                ],
+                [
+                    7290.4, 
+                    588.079, 
+                    11695.4
+                ],
+                [
+                    7172.62, 
+                    587.939, 
+                    11683.7
+                ],
+                [
+                    7170.37, 
+                    587.938, 
+                    11615.2
+                ],
+                [
+                    7071.71, 
+                    587.827, 
+                    11615.9
+                ]
+            ]
+        },
+        {
+            "Name": "KMUC Tier 04 Patrol 02",
+            "Persist": 1,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "Loadout": "TTSKOLoadout",
+            "Units": [],
+            "NumberOfAI":  3,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -1.0,
+            "MaxDistRadius": -1.0,
+            "DespawnRadius": -1.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    7166.03,
+                    474.1,
+                    11659.3
+                ],
+                [
+                    7179.55,
+                    474.1,
+                    11657
+                ],
+                [
+                    7178.09,
+                    474.1, 
+                    1641
+                ],
+                [
+                    7166.7,
+                    474.1,
+                    11641
+                ],
+                [
+                    7166.55,
+                    480.091,
+                    11613.2
+                ]
+            ]
+        },
+        {
+            "Name": "KMUC Tier 04 Patrol 03",
+            "Persist": 1,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "Loadout": "TTSKOLoadout",
+            "Units": [],
+            "NumberOfAI":  3,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -1.0,
+            "MaxDistRadius": -1.0,
+            "DespawnRadius": -1.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    7053.39, 
+                    573.504, 
+                    11620.2
+                ],
+                [
+                    7083.97, 
+                    573.509, 
+                    11620.6
+                ],
+                [
+                    7084.21, 
+                    573.518, 
+                    11611.5
+                ],
+                [
+                    7106.61, 
+                    573.518, 
+                    11612.6
+                ],
+                [
+                    7106.98, 
+                    573.517, 
+                    11619.3
+                ],
+                [
+                    7159.9, 
+                    573.537, 
+                    11620.3
+                ]
+            ]
+        },
+        {
+            "Name": "Temple Tier 04 Patrol 01",
+            "Persist": 1,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "Loadout": "TTSKOLoadout",
+            "Units": [],
+            "NumberOfAI":  3,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -1.0,
+            "MaxDistRadius": -1.0,
+            "DespawnRadius": -1.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    365.215, 
+                    54.3839, 
+                    880.369
+                ],
+                [
+                    366.487, 
+                    55.3178, 
+                    798.291
+                ],
+                [
+                    374.157, 
+                    55.3175, 
+                    797.513
+                ],
+                [
+                    374.996, 
+                    55.318, 
+                    758.392
+                ],
+                [
+                    367.241, 
+                    55.3181, 
+                    758.947
+                ],
+                [
+                    367.055, 
+                    48.8618, 
+                    710.73
+                ]
+            ]
+        },
+        {
+            "Name": "Temple Tier 04 Patrol 02",
+            "Persist": 1,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "Loadout": "TTSKOLoadout",
+            "Units": [],
+            "NumberOfAI":  3,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -1.0,
+            "MaxDistRadius": -1.0,
+            "DespawnRadius": -1.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    392.716, 
+                    47.07, 
+                    788.646
+                ],
+                [
+                    388.976, 
+                    47.0825, 
+                    748.644
+                ],
+                [
+                    341.846, 
+                    47.0825, 
+                    752.671
+                ],
+                [
+                    342.518, 
+                    47.0825, 
+                    828.237
+                ],
+                [
+                    394.02, 
+                    47.0825, 
+                    821.397
+                ],
+                [
+                    393.694, 
+                    47.0825, 
+                    770.329
+                ]
+            ]
+        },
+        {
+            "Name": "Temple Tier 04 Patrol 03",
+            "Persist": 1,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "Loadout": "TTSKOLoadout",
+            "Units": [],
+            "NumberOfAI":  3,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -1.0,
+            "MaxDistRadius": -1.0,
+            "DespawnRadius": -1.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    391.526, 
+                    44.2749, 
+                    880.88
+                ],
+                [
+                    327.121, 
+                    44.5835, 
+                    877.982
+                ],
+                [
+                    287.702, 
+                    44.8218, 
+                    853.367
+                ],
+                [
+                    282.254, 
+                    44.671, 
+                    792.048
+                ],
+                [
+                    306.905, 
+                    43.9519, 
+                    725.623
+                ],
+                [
+                    343.043, 
+                    44.683, 
+                    704.135
+                ]
+            ]
+        },
+        {
+            "Name": "Area 42 Tier 04 Patrol 01",
+            "Persist": 1,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "Loadout": "TTSKOLoadout",
+            "Units": [],
+            "NumberOfAI":  3,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -1.0,
+            "MaxDistRadius": -1.0,
+            "DespawnRadius": -1.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.75,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    13721.2, 
+                    12.94, 
+                    9956.84
+                ],
+                [
+                    13612.9, 
+                    12.91, 
+                    9949.9
+                ],
+                [
+                    13606.1,
+                    12.91, 
+                    9869.19
+                ],
+                [
+                    13496, 
+                    12.8939, 
+                    9941.21
+                ],
+                [
+                    13490.6, 
+                    12.91, 
+                    9872.44
+                ],
+                [
+                    13699.5, 
+                    12.91, 
+                    9778.92
+                ]
+            ]
+        },
+        {
+            "Name": "Area 42 Tier 04 Patrol 02",
+            "Persist": 1,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "Loadout": "TTSKOLoadout",
+            "Units": [],
+            "NumberOfAI":  3,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -1.0,
+            "MaxDistRadius": -1.0,
+            "DespawnRadius": -1.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.75,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    13406.6, 
+                    12.94, 
+                    10018
+                ],
+                [
+                    13394.7, 
+                    12.94, 
+                    9880
+                ],
+                [
+                    13176.5, 
+                    12.94, 
+                    9891.15
+                ],
+                [
+                    13186.1, 
+                    12.94, 
+                    9971.01
+                ],
+                [
+                    13400.5, 
+                    12.9525, 
+                    9936.63
+                ],
+                [
+                    13395.3, 
+                    12.91, 
+                    9850.93
+                ]
+            ]
+        },
+        {
+            "Name": "Area 42 Tier 04 Patrol 03",
+            "Persist": 1,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "Loadout": "TTSKOLoadout",
+            "Units": [],
+            "NumberOfAI":  3,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -1.0,
+            "MaxDistRadius": -1.0,
+            "DespawnRadius": -1.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.75,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    12893.8, 
+                    12.9525, 
+                    9751.74
+                ],
+                [
+                    13006.2, 
+                    12.9525, 
+                    746.42
+                ],
+                [
+                    13002.3, 
+                    12.9525, 
+                    9716.58
+                ],
+                [
+                    13151.8, 
+                    12.9313, 
+                    9704.63
+                ],
+                [
+                    13150.6, 
+                    12.9525, 
+                    9843.4
+                ],
+                [
+                    13038.4, 
+                    12.9525, 
+                    9874.03
+                ]
+            ]
+        },
+        {
+            "Name": "Artic Tier 04 Patrol 01",
+            "Persist": 1,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "Loadout": "TTSKOLoadout",
+            "Units": [],
+            "NumberOfAI":  3,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -1.0,
+            "MaxDistRadius": -1.0,
+            "DespawnRadius": -1.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    15537.1, 
+                    43.8943, 
+                    15171.5
+                ],
+                [
+                    15460.6, 
+                    27.7156, 
+                    15239.2
+                ],
+                [
+                    15445.6, 
+                    21.9971, 
+                    15245.4
+                ],
+                [
+                    15432.6, 
+                    17.5873, 
+                    15257.9
+                ],
+                [
+                    15349, 
+                    17.597, 
+                    15158.4
+                ],
+                [
+                    15299.8, 
+                    16.6515, 
+                    15200.6
+                ]
+            ]
+        },
+        {
+            "Name": "Artic Tier 04 Patrol 02",
+            "Persist": 1,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "Loadout": "TTSKOLoadout",
+            "Units": [],
+            "NumberOfAI":  3,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -1.0,
+            "MaxDistRadius": -1.0,
+            "DespawnRadius": -1.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    15104.8, 
+                    10.7992, 
+                    15117.5
+                ],
+                [
+                    15172.2, 
+                    10.9025, 
+                    15197.6
+                ],
+                [
+                    15247.3, 
+                    12.2358, 
+                    15133.6
+                ],
+                [
+                    15184.2, 
+                    8.52903, 
+                    15058.1
+                ],
+                [
+                    15164, 
+                    8.46883, 
+                    15073.8
+                ],
+                [
+                    15144, 
+                    4.94769, 
+                    15040.2
+                ]
+            ]
+        },
+        {
+            "Name": "Crater Tier 04 Patrol",
+            "Persist": 1,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "Loadout": "TTSKOLoadout",
+            "Units": [],
+            "NumberOfAI":  3,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -1.0,
+            "MaxDistRadius": -1.0,
+            "DespawnRadius": -1.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 0.75,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    13981.3, 
+                    3.54881, 
+                    2073.87
+                ],
+                [
+                    14096.4, 
+                    3.78467, 
+                    2117.2
+                ],
+                [
+                    14074.4, 
+                    5.15403, 
+                    2212.97
+                ],
+                [
+                    13973.4, 
+                    9.80958, 
+                    2260.86
+                ],
+                [
+                    13897.1, 
+                    4.58174, 
+                    2203.91
+                ],
+                [
+                    13932, 
+                    4.60958, 
+                    2090.02
+                ]
+            ]
+        },
+        {
+            "Name": "Alcatraz Island Tier 04 Patrol 01",
+            "Persist": 1,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "Loadout": "NBCLoadout",
+            "Units": [],
+            "NumberOfAI":  3,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -1.0,
+            "MaxDistRadius": -1.0,
+            "DespawnRadius": -1.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    15816.5, 
+                    22.2526, 
+                    5196.42
+                ],
+                [
+                    15800.9, 
+                    22.2526, 
+                    5149.31
+                ],
+                [
+                    15754.8, 
+                    22.2526, 
+                    5098.14
+                ],
+                [
+                    15690.9, 
+                    22.3189, 
+                    5118.45
+                ],
+                [
+                    15679.8, 
+                    22.3202, 
+                    5084.83
+                ],
+                [
+                    15689.7, 
+                    22.2526, 
+                    5030.36
+                ]
+            ]
+        },
+        {
+            "Name": "Alcatraz Island Tier 04 Patrol 02",
+            "Persist": 1,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "Loadout": "NBCLoadout",
+            "Units": [],
+            "NumberOfAI":  3,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -1.0,
+            "MaxDistRadius": -1.0,
+            "DespawnRadius": -1.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    15775.7, 
+                    9.44008,
+                    4375.63
+                ],
+                [
+                    15771.3, 
+                    9.66953, 
+                    4416.88
+                ],
+                [
+                    15706.5, 
+                    16.5583, 
+                    4482.66
+                ],
+                [
+                    15712.3, 
+                    23.7128, 
+                    4539.17
+                ],
+                [
+                    15745.4, 
+                    28.0026, 
+                    4537.73
+                ],
+                [
+                    15758.2, 
+                    28.0026, 
+                    4554.23
+                ]
+            ]
+        },
+        {
+            "Name": "Aircraft Carrier Tier 04 Patrol 01",
+            "Persist": 1,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "Loadout": "TTSKOLoadout",
+            "Units": [],
+            "NumberOfAI":  3,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -1.0,
+            "MaxDistRadius": -1.0,
+            "DespawnRadius": -1.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    13245.8, 14.2165, 15658.8
+                ],
+                [
+                    13172.1, 14.2121, 15433.9
+                ],
+                [
+                    13189.3, 14.2121, 15431.3
+                ],
+                [
+                    13210.8, 14.2141, 15457.2
+                ],
+                [
+                    13252.4, 14.2217, 15586.1
+                ],
+                [
+                    13267.3, 14.2165, 15651.9
+                ]
+            ]
+        },
+        {
+            "Name": "Aircraft Carrier Tier 04 Patrol 02",
+            "Persist": 1,
+            "Faction": "Shamans",
+            "Formation": "File",
+            "FormationLooseness": 3.0,
+            "Loadout": "TTSKOLoadout",
+            "Units": [],
+            "NumberOfAI":  3,
+            "Behaviour": "ALTERNATE",
+            "LootingBehaviour": "DEFAULT",
+            "Speed": "WALK",
+            "UnderThreatSpeed": "SPRINT",
+            "CanBeLooted": 1,
+            "UnlimitedReload": 1,
+            "SniperProneDistanceThreshold": 0.0,
+            "AccuracyMin": -1.0,
+            "AccuracyMax": -1.0,
+            "ThreatDistanceLimit": -1.0,
+            "NoiseInvestigationDistanceLimit": -1.0,
+            "DamageMultiplier": -1.0,
+            "DamageReceivedMultiplier": -1.0,
+            "CanBeTriggeredByAI": 0,
+            "MinDistRadius": -1.0,
+            "MaxDistRadius": -1.0,
+            "DespawnRadius": -1.0,
+            "MinSpreadRadius": 1.0,
+            "MaxSpreadRadius": 100.0,
+            "Chance": 1.0,
+            "WaypointInterpolation": "",
+            "DespawnTime": -1.0,
+            "RespawnTime": -2.0,
+            "UseRandomWaypointAsStartPoint": 1,
+            "Waypoints": [
+                [
+                    13219.5, 
+                    7.43726, 
+                    15506.1
+                ],
+                [
+                    13221.2, 
+                    7.43727, 
+                    15514.2
+                ],
+                [
+                    13200.1, 
+                    7.43726, 
+                    15521.2
+                ],
+                [
+                    13201.9, 
+                    7.43726, 
+                    15526.3
+                ],
+                [
+                    13212.6, 
+                    7.43727, 
+                    15522.2
+                ],
+                [
+                    13211.1, 
+                    7.43727, 
+                    15517.6
+                ],
+                [
+                    13221.8, 
+                    7.43727, 
+                    15515.6
+                ],
+                [
+                    13232.1, 
+                    7.43877, 
+                    15548.4
+                ],
+                [
+                    13227.6, 
+                    7.43876, 
+                    15549.4
+                ],
+                [
+                    13217.7, 
+                    7.43727, 
+                    15518.4
+                ]
+            ]
+        }
+    ]
+}

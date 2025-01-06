@@ -1,0 +1,66 @@
+{
+    "ConfigVersion": 28,
+    "ID": 8,
+    "Type": 3,
+    "Title": "Travel: Explore the Plane Crash",
+    "Descriptions": [
+        "Urban legend states that a plane of weapons crashed somewhere near the mountain. Smoke was seen coming from the little river connecting the lake to Baren Falls. I wouldn't want to get caught down there in a gun fight, so bring lots of ammo or friends who also have a lot of ammo. Get back with news and we will help pay off your ammo tab. -Stinky Pete-",
+        "Still working on it? I get it, things are rough outside these walls.",
+        "Look at that..."
+    ],
+    "ObjectiveText": "Explore the Plane Crash",
+    "FollowUpQuest": 0,
+    "Repeatable": 1,
+    "IsDailyQuest": 1,
+    "IsWeeklyQuest": 0,
+    "CancelQuestOnPlayerDeath": 0,
+    "Autocomplete": 0,
+    "IsGroupQuest": 0,
+    "ObjectSetFileName": "",
+    "QuestItems": [],
+    "Rewards": [
+        {
+            "ClassName": "ExpansionBanknoteUSD",
+            "Amount": 250,
+            "Attachments": [],
+            "DamagePercent": 0,
+            "HealthPercent": 0,
+            "QuestID": -1,
+            "Chance": 1.0
+        }
+    ],
+    "NeedToSelectReward": 0,
+    "RandomReward": 0,
+    "RandomRewardAmount": -1,
+    "RewardsForGroupOwnerOnly": 1,
+    "RewardBehavior": 0,
+    "QuestGiverIDs": [
+        1
+    ],
+    "QuestTurnInIDs": [
+        1
+    ],
+    "IsAchievement": 0,
+    "Objectives": [
+        {
+            "ConfigVersion": 28,
+            "ID": 8,
+            "ObjectiveType": 3
+        }
+    ],
+    "QuestColor": 0,
+    "ReputationReward": 0,
+    "ReputationRequirement": -1,
+    "PreQuestIDs": [
+        7
+    ],
+    "RequiredFaction": "",
+    "FactionReward": "",
+    "PlayerNeedQuestItems": 1,
+    "DeleteQuestItems": 0,
+    "SequentialObjectives": 0,
+    "FactionReputationRequirements": {},
+    "FactionReputationRewards": {},
+    "SuppressQuestLogOnCompetion": 0,
+    "Active": 1
+}

@@ -1,0 +1,24 @@
+2025-01-02_20-31-32 - Setting up crate spawns.
+2025-01-02_20-31-32 - Using random spawns for Locked_Rust_Crate
+2025-01-02_20-31-32 - Spawned random crate at position: <4636.810059, 20.570000, 7072.310059>
+2025-01-02_20-31-32 - Spawned random crate at position: <1439.439941, 8.480200, 15580.799805>
+2025-01-02_20-31-33 - Spawned random crate at position: <8901.599609, 23.869499, 5995.540039>
+2025-01-02_20-31-33 - Using random spawns for Locked_Armoury_Container
+2025-01-02_20-31-33 - Spawned random crate at position: <5848.419922, 74.012497, 3607.669922>
+2025-01-02_20-31-33 - Using random spawns for Locked_Car_Container
+2025-01-02_20-31-33 - Spawned random crate at position: <5295.810059, 4.922500, 9021.919922>
+2025-01-02_21-02-00 - Refreshed crate at new position: <2991.050049, 22.625000, 4113.189941>
+2025-01-02_21-02-00 - Refreshed crate at new position: <5599.600098, 74.012497, 3829.399902>
+2025-01-02_21-02-00 - Refreshed crate at new position: <5460.939941, 74.012497, 3679.969971>
+2025-01-02_21-02-00 - Refreshed crate at new position: <1439.439941, 8.480200, 15580.799805>
+2025-01-02_21-02-00 - Refreshed crate at new position: <8901.599609, 23.869499, 5995.540039>
+2025-01-02_21-32-28 - Refreshed crate at new position: <2971.820068, 22.547701, 3818.989990>
+2025-01-02_21-32-28 - Refreshed crate at new position: <4636.810059, 20.570000, 7072.310059>
+2025-01-02_21-32-28 - Refreshed crate at new position: <6132.939941, 8.182860, 14618.900391>
+2025-01-02_21-32-28 - Refreshed crate at new position: <13328.500000, 12.910000, 9757.059570>
+2025-01-02_21-32-28 - Refreshed crate at new position: <3619.489990, 13.522000, 8904.059570>
+2025-01-02_22-02-56 - Refreshed crate at new position: <11505.000000, 14.207300, 10229.700195>
+2025-01-02_22-02-56 - Refreshed crate at new position: <13328.500000, 12.910000, 9757.059570>
+2025-01-02_22-02-56 - Refreshed crate at new position: <5460.939941, 74.012497, 3679.969971>
+2025-01-02_22-02-56 - Refreshed crate at new position: <1439.439941, 8.480200, 15580.799805>
+2025-01-02_22-02-56 - Refreshed crate at new position: <5272.189941, 5.013200, 9107.349609>

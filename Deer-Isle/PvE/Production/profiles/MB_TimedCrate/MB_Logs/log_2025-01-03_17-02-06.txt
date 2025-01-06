@@ -1,0 +1,34 @@
+2025-01-03_17-02-06 - Setting up crate spawns.
+2025-01-03_17-02-06 - Using random spawns for Locked_Rust_Crate
+2025-01-03_17-02-06 - Spawned random crate at position: <2971.820068, 22.547701, 3818.989990>
+2025-01-03_17-02-06 - Spawned random crate at position: <13329.299805, 12.922500, 9756.190430>
+2025-01-03_17-02-06 - Spawned random crate at position: <8901.599609, 23.869499, 5995.540039>
+2025-01-03_17-02-06 - Using random spawns for Locked_Armoury_Container
+2025-01-03_17-02-06 - Spawned random crate at position: <8967.750000, 17.947201, 5944.709961>
+2025-01-03_17-02-06 - Using random spawns for Locked_Car_Container
+2025-01-03_17-02-06 - Spawned random crate at position: <5339.930176, 34.418098, 647.642029>
+2025-01-03_17-32-34 - Refreshed crate at new position: <2593.010010, 22.462500, 3639.239990>
+2025-01-03_17-32-34 - Refreshed crate at new position: <3709.030029, 11.420000, 8683.019531>
+2025-01-03_17-32-34 - Refreshed crate at new position: <6132.939941, 8.182860, 14618.900391>
+2025-01-03_17-32-34 - Refreshed crate at new position: <6132.939941, 8.182860, 14618.900391>
+2025-01-03_17-32-34 - Refreshed crate at new position: <3074.340088, 22.462500, 4065.189941>
+2025-01-03_18-03-02 - Refreshed crate at new position: <6132.939941, 8.182860, 14618.900391>
+2025-01-03_18-03-02 - Refreshed crate at new position: <5527.319824, 34.852501, 688.247009>
+2025-01-03_18-03-02 - Refreshed crate at new position: <3074.340088, 22.462500, 4065.189941>
+2025-01-03_18-03-02 - Refreshed crate at new position: <3709.030029, 11.420000, 8683.019531>
+2025-01-03_18-03-02 - Refreshed crate at new position: <4646.879883, 20.442499, 7172.600098>
+2025-01-03_18-33-30 - Refreshed crate at new position: <2495.270020, 35.112499, 3355.260010>
+2025-01-03_18-33-30 - Refreshed crate at new position: <3557.590088, 12.585700, 8854.610352>
+2025-01-03_18-33-30 - Refreshed crate at new position: <11338.000000, 14.792500, 10056.799805>
+2025-01-03_18-33-30 - Refreshed crate at new position: <6132.939941, 8.182860, 14618.900391>
+2025-01-03_18-33-30 - Refreshed crate at new position: <13329.299805, 12.922500, 9756.190430>
+2025-01-03_19-03-58 - Refreshed crate at new position: <4636.810059, 20.570000, 7072.310059>
+2025-01-03_19-03-58 - Refreshed crate at new position: <14139.099609, 136.285004, 2589.850098>
+2025-01-03_19-03-58 - Refreshed crate at new position: <8811.089844, 45.506001, 3823.199951>
+2025-01-03_19-03-58 - Refreshed crate at new position: <13085.700195, 21.112499, 1538.189941>
+2025-01-03_19-03-58 - Refreshed crate at new position: <5695.339844, 74.080704, 3734.419922>
+2025-01-03_19-34-26 - Refreshed crate at new position: <5295.810059, 4.922500, 9021.919922>
+2025-01-03_19-34-26 - Refreshed crate at new position: <2908.719971, 22.462500, 3527.239990>
+2025-01-03_19-34-26 - Refreshed crate at new position: <5272.189941, 5.013200, 9107.349609>
+2025-01-03_19-34-26 - Refreshed crate at new position: <2971.820068, 22.547701, 3818.989990>
+2025-01-03_19-34-27 - Refreshed crate at new position: <1439.439941, 8.480200, 15580.799805>

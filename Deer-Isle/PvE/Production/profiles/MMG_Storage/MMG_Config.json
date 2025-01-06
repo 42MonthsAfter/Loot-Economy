@@ -1,0 +1,18 @@
+{
+    "RaidingTimeinSeconds": 300,
+    "ToolsDamageOnRaid": 100,
+    "EnableAttach": "true",
+    "EnableRaid": "true",
+    "DeleteLockAfterRaid": "false",
+    "Craft_Gun_Rack": "false",
+    "Craft_Tent": "false",
+    "Craft_SupplyCrate_Unfinished": "false",
+    "Craft_SupplyCrate": "false",
+    "Craft_Gear_Stand": "false",
+    "Craft_Gunwall": "false",
+    "Craft_Old_Table": "false",
+    "Craft_Wall_Shelf": "false",
+    "RaidingTools": [
+        "mmg_raid_driver"
+    ]
+}

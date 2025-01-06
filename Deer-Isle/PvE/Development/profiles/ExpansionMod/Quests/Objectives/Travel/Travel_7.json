@@ -1,0 +1,18 @@
+{
+    "ConfigVersion": 28,
+    "ID": 7,
+    "ObjectiveType": 3,
+    "ObjectiveText": "Explore the Alter",
+    "TimeLimit": 7200,
+    "Active": 1,
+    "Position": [
+        3879.46, 
+        14.088, 
+        9838.19
+    ],
+    "MaxDistance": 1.0,
+    "MarkerName": "The Alter",
+    "ShowDistance": 0,
+    "TriggerOnEnter": 1,
+    "TriggerOnExit": 0
+}

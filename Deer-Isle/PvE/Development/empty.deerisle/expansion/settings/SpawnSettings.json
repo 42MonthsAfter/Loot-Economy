@@ -1,0 +1,135 @@
+{
+    "m_Version": 7,
+    "SpawnLocations": [
+        {
+            "Name": "PvE Beach Front",
+            "Positions": [
+                [
+                    2302.37,
+                    2.03879,
+                    8002.53
+                ],
+                [
+                    2505.33,
+                    3.30674,
+                    7942.51
+                ],
+                [
+                    2065,
+                    1.79884,
+                    8190.48
+                ],
+                [
+                    1686.75,
+                    1.85217,
+                    8635.96
+                ],
+                [
+                    1298.41, 
+                    4.45504, 
+                    8825.54
+                ],
+                [
+                    1453.18, 
+                    1.88985, 
+                    9186.72
+                ],
+                [
+                    1876.61, 
+                    2.99166, 
+                    9496.96
+                ],
+                [
+                    
+                    2145.52, 
+                    1.12549, 
+                    9615.15
+                ],
+                [
+                    2529.95,
+                    1.24982,
+                    9611.38
+                ]
+            ],
+            "UseCooldown": 1
+        }
+    ],
+    "StartingClothing": {
+        "EnableCustomClothing": 1,
+        "SetRandomHealth": 1,
+        "Headgear": [],
+        "Glasses": [],
+        "Masks": [],
+        "Tops": [
+            "DOC_TSHIRT_42"
+        ],
+        "Vests": [],
+        "Gloves": [],
+        "Pants": [
+            "Jeans_Black",
+            "Jeans_Blue",
+            "Jeans_BlueDark",
+            "Jeans_Brown",
+            "Jeans_Grey"
+        ],
+        "Belts": [],
+        "Shoes": [
+            "Sneakers_Black"
+        ],
+        "Armbands": [],
+        "Backpacks": []
+    },
+    "EnableSpawnSelection": 0,
+    "SpawnOnTerritory": 0,
+    "StartingGear": {
+        "EnableStartingGear": 1,
+        "ApplyEnergySources": 1,
+        "SetRandomHealth": 1,
+        "UpperGear": [
+            {
+                "ClassName": "Rag",
+                "Quantity": 4,
+                "Attachments": []
+            },
+            {
+                "ClassName": "ZenSwissKnife",
+                "Quantity": -1,
+                "Attachments": []
+            },
+            {
+                "ClassName": "Chemlight_White",
+                "Quantity": -1,
+                "Attachments": []
+            }
+        ],
+        "PantsGear": [],
+        "BackpackGear": [],
+        "VestGear": [],
+        "PrimaryWeapon": {},
+        "SecondaryWeapon": {}
+    },
+    "UseLoadouts": 0,
+    "MaleLoadouts": [
+        {
+            "Loadout": "PlayerSurvivorLoadout",
+            "Chance": 1.0
+        }
+    ],
+    "FemaleLoadouts": [
+        {
+            "Loadout": "PlayerSurvivorLoadout",
+            "Chance": 1.0
+        }
+    ],
+    "SpawnHealthValue": 100.0,
+    "SpawnEnergyValue": 750.0,
+    "SpawnWaterValue": 750.0,
+    "EnableRespawnCooldowns": 1,
+    "RespawnCooldown": 120,
+    "TerritoryRespawnCooldown": 240,
+    "PunishMultispawn": 1,
+    "PunishCooldown": 120,
+    "PunishTimeframe": 300,
+    "CreateDeathMarker": 1,
+    "BackgroundImagePath": "DayZExpansion/SpawnSelection/GUI/textures/wood_background.edds"
+}

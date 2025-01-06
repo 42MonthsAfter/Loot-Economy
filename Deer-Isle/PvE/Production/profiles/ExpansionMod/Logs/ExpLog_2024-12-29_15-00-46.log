@@ -1,0 +1,187 @@
+16:24:42.289 [Expansion Quests] Initialize quest system on the connected client with UID=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=
+16:24:42.304 [Expansion Quests] Loaded existing player quest data for player with UID=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=
+16:24:42.304 [Expansion Quests] Check quest initialization for quest with ID=1 | State=STARTED | Player UID=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=
+16:24:42.304 [Expansion Quests] Create new quest instance for quest with ID=1 | Player UID=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=
+16:24:42.304 [Expansion Quests] Quest with ID=2 is not a a valid achievement or auto start quest. Skip quest for player with UID=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=
+16:24:42.304 [Expansion Quests] Quest with ID=3 is not a a valid achievement or auto start quest. Skip quest for player with UID=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=
+16:24:42.304 [Expansion Quests] Quest with ID=4 is not a a valid achievement or auto start quest. Skip quest for player with UID=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=
+16:24:42.308 [Expansion Quests] Quest with ID=5 is not a a valid achievement or auto start quest. Skip quest for player with UID=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=
+16:24:42.308 [Expansion Quests] Quest with ID=6 is not a a valid achievement or auto start quest. Skip quest for player with UID=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=
+16:24:42.308 [Expansion Quests] Quest with ID=7 is not a a valid achievement or auto start quest. Skip quest for player with UID=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=
+16:24:42.308 [Expansion Quests] Quest with ID=8 is not a a valid achievement or auto start quest. Skip quest for player with UID=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=
+16:24:42.308 [Expansion Quests] Quest with ID=9 is not a a valid achievement or auto start quest. Skip quest for player with UID=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=
+16:24:42.308 [Expansion Quests] Quest with ID=10 is not a a valid achievement or auto start quest. Skip quest for player with UID=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=
+16:24:42.308 [Expansion Quests] Quest with ID=11 is not a a valid achievement or auto start quest. Skip quest for player with UID=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=
+16:24:42.308 [Expansion Quests] Quest with ID=12 is not a a valid achievement or auto start quest. Skip quest for player with UID=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=
+16:24:42.308 [Expansion Quests] Quest with ID=13 is not a a valid achievement or auto start quest. Skip quest for player with UID=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=
+16:24:42.308 [Expansion Quests] Quest with ID=14 is not a a valid achievement or auto start quest. Skip quest for player with UID=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=
+16:24:42.308 [Expansion Quests] Quest with ID=15 is not a a valid achievement or auto start quest. Skip quest for player with UID=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=
+16:24:42.308 [Expansion Quests] Quest with ID=16 is not a a valid achievement or auto start quest. Skip quest for player with UID=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=
+16:24:42.308 [Expansion Quests] Quest with ID=17 is not a a valid achievement or auto start quest. Skip quest for player with UID=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=
+16:24:42.308 [Expansion Quests] Quest with ID=18 is not a a valid achievement or auto start quest. Skip quest for player with UID=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=
+16:24:42.308 [Expansion Quests] Quest with ID=19 is not a a valid achievement or auto start quest. Skip quest for player with UID=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=
+16:24:42.308 [Expansion Quests] Quest with ID=20 is not a a valid achievement or auto start quest. Skip quest for player with UID=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=
+16:24:42.308 [Expansion Quests] Quest with ID=21 is not a a valid achievement or auto start quest. Skip quest for player with UID=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=
+16:24:42.308 [Expansion Quests] Quest with ID=22 is not a a valid achievement or auto start quest. Skip quest for player with UID=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=
+16:24:42.308 [Expansion Quests] Quest with ID=23 is not a a valid achievement or auto start quest. Skip quest for player with UID=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=
+16:24:42.308 [Expansion Quests] Quest with ID=24 is not a a valid achievement or auto start quest. Skip quest for player with UID=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=
+16:24:42.308 [Expansion Quests] Quest with ID=25 is not a a valid achievement or auto start quest. Skip quest for player with UID=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=
+16:24:42.308 [Expansion Quests] Quest with ID=26 is not a a valid achievement or auto start quest. Skip quest for player with UID=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=
+16:24:42.308 [Expansion Quests] Quest with ID=27 is not a a valid achievement or auto start quest. Skip quest for player with UID=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=
+16:24:42.308 [Expansion Quests] Quest with ID=28 is not a a valid achievement or auto start quest. Skip quest for player with UID=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=
+16:24:42.308 [Expansion Quests] Quest with ID=29 is not a a valid achievement or auto start quest. Skip quest for player with UID=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=
+16:24:42.308 [Expansion Quests] Quest with ID=30 is not a a valid achievement or auto start quest. Skip quest for player with UID=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=
+16:24:42.308 [Expansion Quests] Quest with ID=31 is not a a valid achievement or auto start quest. Skip quest for player with UID=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=
+16:24:42.308 [Expansion Quests] Quest with ID=32 is not a a valid achievement or auto start quest. Skip quest for player with UID=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=
+16:24:42.308 [Expansion Quests] Quest with ID=33 is not a a valid achievement or auto start quest. Skip quest for player with UID=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=
+16:24:42.308 [Expansion Quests] Quest with ID=35 is not a a valid achievement or auto start quest. Skip quest for player with UID=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=
+16:24:42.308 [Expansion Quests] Quest with ID=36 is not a a valid achievement or auto start quest. Skip quest for player with UID=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=
+16:24:42.308 [Expansion Quests] Quest with ID=37 is not a a valid achievement or auto start quest. Skip quest for player with UID=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=
+16:24:42.308 [Expansion Quests] Quest with ID=38 is not a a valid achievement or auto start quest. Skip quest for player with UID=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=
+16:24:42.308 [Expansion Quests] Quest with ID=39 is not a a valid achievement or auto start quest. Skip quest for player with UID=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=
+16:24:42.308 [Expansion Quests] Quest with ID=40 is not a a valid achievement or auto start quest. Skip quest for player with UID=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=
+16:24:42.308 [Expansion Quests] Sending z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM= quest configs to client for player with UID=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=
+16:24:42.308 [Expansion Quests] Sending player quest data for 1 quests to player with UID=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=
+16:24:42.781 [Expansion Quests] Added new objective data for type=TRAVEL | Key=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM= | ID=1
+16:24:42.781 [Expansion Quests] Updated and saved persistent player quest data for player with UID=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM= | Quest ID=1
+16:27:23.058 [AI Patrol 00010] Loaded 3 persistent Stonington Tier 02 Patrol (Shamans) bots at <6940.303711, 38.744389, 1911.396851>
+16:27:23.058 [AI Patrol 00010] Global patrol count: 1
+16:34:48.125 [MissionAirdrop] An airdrop is heading towards "Oceanville" (pos=<10179.000000, 0.000000, 4722.000000> type=Random_Oceanville) with a ExpansionAirdropContainer_Basebuilding
+16:43:07.808 [VehicleEnter] Player drengr [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] entered vehicle ATV (id=F113DE6652421C3E5C97E98782C06E51 pos=<6612.708984, 17.771305, 1541.812134>) as driver
+16:43:11.734 [VehicleLeave] Player drengr [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] left vehicle ATV (id=F113DE6652421C3E5C97E98782C06E51 pos=<6612.708496, 17.771305, 1541.812622>)
+16:47:12.480 [VehicleEnter] Player drengr [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] entered vehicle ATV (id=3CD75A56ED43544A9AA980B1356CF74E pos=<7376.105957, 2.801306, 1423.463745>) as driver
+16:47:14.750 [VehicleEngine] Player "drengr" [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] started vehicle ATV (id=3CD75A56ED43544A9AA980B1356CF74E pos=<7376.105957, 2.801306, 1423.463745>)
+16:47:16.640 [GraveStone] Spawned GraveStone for Survivor at position 0x0000000040a10214 {<6875.12,40.4012,1879.29>}
+16:50:35.191 [VehicleEngine] Player "drengr" [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] stopped vehicle ATV (id=3CD75A56ED43544A9AA980B1356CF74E pos=<8660.440430, 4.520871, 1901.843018>)
+16:50:38.542 [VehicleLeave] Player drengr [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] left vehicle ATV (id=3CD75A56ED43544A9AA980B1356CF74E pos=<8660.440430, 4.520871, 1901.843018>)
+16:51:18.160 [VehicleEnter] Player drengr [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] entered vehicle ATV (id=3CD75A56ED43544A9AA980B1356CF74E pos=<8660.440430, 4.520858, 1901.842407>) as driver
+16:51:22.937 [VehicleEngine] Player "drengr" [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] started vehicle ATV (id=3CD75A56ED43544A9AA980B1356CF74E pos=<8660.440430, 4.520870, 1901.843018>)
+16:59:19.070 [AI Patrol 00010] Despawning 3 Stonington Tier 02 Patrol (Shamans) bots (spawn position <6940.303711, 38.744389, 1911.396851>, 0/3 deceased)
+16:59:19.082 [AI Patrol 00010] Global patrol count: 0
+17:00:42.781 [VehicleEngine] Player "drengr" [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] stopped vehicle ATV (id=3CD75A56ED43544A9AA980B1356CF74E pos=<7943.289551, 6.514454, 4250.594727>)
+17:00:46.984 [VehicleLeave] Player drengr [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] left vehicle ATV (id=3CD75A56ED43544A9AA980B1356CF74E pos=<7943.289551, 6.514454, 4250.594727>)
+17:01:57.539 [VehicleEnter] Player drengr [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] entered vehicle ATV (id=3CD75A56ED43544A9AA980B1356CF74E pos=<7943.289551, 6.514454, 4250.594727>) as driver
+17:02:00.320 [VehicleEngine] Player "drengr" [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] started vehicle ATV (id=3CD75A56ED43544A9AA980B1356CF74E pos=<7943.289551, 6.514453, 4250.594727>)
+17:02:42.773 [VehicleEngine] Player "drengr" [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] stopped vehicle ATV (id=3CD75A56ED43544A9AA980B1356CF74E pos=<8792.254883, 11.997148, 4166.621094>)
+17:02:45.023 [VehicleEngine] Player "drengr" [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] started vehicle ATV (id=3CD75A56ED43544A9AA980B1356CF74E pos=<8792.254883, 11.997147, 4166.621094>)
+17:03:02.687 [VehicleEngine] Player "drengr" [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] stopped vehicle ATV (id=3CD75A56ED43544A9AA980B1356CF74E pos=<8771.976563, 10.219487, 4149.293945>)
+17:03:06.191 [VehicleLeave] Player drengr [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] left vehicle ATV (id=3CD75A56ED43544A9AA980B1356CF74E pos=<8771.976563, 10.219483, 4149.293945>)
+17:03:20.984 [VehicleEnter] Player drengr [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] entered vehicle ATV (id=3CD75A56ED43544A9AA980B1356CF74E pos=<8771.976563, 10.219489, 4149.293945>) as driver
+17:03:23.136 [VehicleEngine] Player "drengr" [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] started vehicle ATV (id=3CD75A56ED43544A9AA980B1356CF74E pos=<8771.976563, 10.219497, 4149.293945>)
+17:03:49.910 [VehicleEngine] Player "drengr" [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] stopped vehicle ATV (id=3CD75A56ED43544A9AA980B1356CF74E pos=<8976.092773, 27.971649, 4176.229004>)
+17:03:52.609 [VehicleLeave] Player drengr [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] left vehicle ATV (id=3CD75A56ED43544A9AA980B1356CF74E pos=<8976.092773, 27.971649, 4176.229004>)
+17:04:14.164 [VehicleEnter] Player drengr [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] entered vehicle ATV (id=1ADDE2E01D424183E2214FB3490C2C0D pos=<8976.213867, 27.971306, 4180.306641>) as driver
+17:04:18.070 [VehicleEngine] Player "drengr" [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] started vehicle ATV (id=1ADDE2E01D424183E2214FB3490C2C0D pos=<8976.246094, 28.147825, 4180.431152>)
+17:04:30.890 [VehicleEngine] Player "drengr" [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] stopped vehicle ATV (id=1ADDE2E01D424183E2214FB3490C2C0D pos=<8980.714844, 29.246462, 4176.498535>)
+17:04:36.210 [VehicleLeave] Player drengr [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] left vehicle ATV (id=1ADDE2E01D424183E2214FB3490C2C0D pos=<8982.163086, 28.512859, 4177.541016>)
+17:06:34.562 [VehicleEnter] Player drengr [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] entered vehicle ATV (id=1ADDE2E01D424183E2214FB3490C2C0D pos=<8982.250000, 27.971308, 4177.060059>) as driver
+17:06:36.214 [VehicleEngine] Player "drengr" [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] started vehicle ATV (id=1ADDE2E01D424183E2214FB3490C2C0D pos=<8982.250000, 27.971306, 4177.060059>)
+17:07:14.839 [VehicleEngine] Player "drengr" [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] stopped vehicle ATV (id=1ADDE2E01D424183E2214FB3490C2C0D pos=<9313.024414, 7.645339, 4166.452637>)
+17:07:17.472 [VehicleLeave] Player drengr [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] left vehicle ATV (id=1ADDE2E01D424183E2214FB3490C2C0D pos=<9313.024414, 7.645345, 4166.452637>)
+17:08:48.695 [VehicleEnter] Player drengr [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] entered vehicle ATV (id=1ADDE2E01D424183E2214FB3490C2C0D pos=<9313.024414, 7.645338, 4166.452637>) as driver
+17:08:51.386 [VehicleEngine] Player "drengr" [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] started vehicle ATV (id=1ADDE2E01D424183E2214FB3490C2C0D pos=<9313.024414, 7.645339, 4166.452637>)
+17:10:27.285 [VehicleEngine] Player "drengr" [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] stopped vehicle ATV (id=1ADDE2E01D424183E2214FB3490C2C0D pos=<9731.415039, 6.138321, 4299.097168>)
+17:10:29.941 [VehicleLeave] Player drengr [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] left vehicle ATV (id=1ADDE2E01D424183E2214FB3490C2C0D pos=<9731.415039, 6.138321, 4299.097168>)
+17:16:34.660 [VehicleEnter] Player drengr [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] entered vehicle ATV (id=1ADDE2E01D424183E2214FB3490C2C0D pos=<9731.415039, 6.138321, 4299.097168>) as driver
+17:16:38.234 [VehicleEngine] Player "drengr" [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] started vehicle ATV (id=1ADDE2E01D424183E2214FB3490C2C0D pos=<9731.415039, 6.138320, 4299.097168>)
+17:17:28.914 [VehicleEngine] Player "drengr" [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] stopped vehicle ATV (id=1ADDE2E01D424183E2214FB3490C2C0D pos=<9959.775391, 9.193401, 4498.826660>)
+17:17:31.562 [VehicleLeave] Player drengr [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] left vehicle ATV (id=1ADDE2E01D424183E2214FB3490C2C0D pos=<9959.775391, 9.193398, 4498.826660>)
+17:19:29.085 [VehicleEnter] Player drengr [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] entered vehicle ATV (id=1ADDE2E01D424183E2214FB3490C2C0D pos=<9959.775391, 9.193401, 4498.826172>) as driver
+17:19:31.500 [VehicleEngine] Player "drengr" [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] started vehicle ATV (id=1ADDE2E01D424183E2214FB3490C2C0D pos=<9959.775391, 9.193400, 4498.826660>)
+17:20:33.261 [VehicleLeave] Player drengr [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] left vehicle ATV (id=1ADDE2E01D424183E2214FB3490C2C0D pos=<10273.007813, 28.010225, 4605.229492>)
+17:21:13.847 [VehicleEnter] Player drengr [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] entered vehicle ATV (id=1ADDE2E01D424183E2214FB3490C2C0D pos=<10272.738281, 27.375917, 4605.506836>) as passenger
+17:21:18.851 [VehicleLeave] Player drengr [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] left vehicle ATV (id=1ADDE2E01D424183E2214FB3490C2C0D pos=<10272.738281, 27.375917, 4605.506836>)
+17:21:23.898 [VehicleEnter] Player drengr [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] entered vehicle ATV (id=1ADDE2E01D424183E2214FB3490C2C0D pos=<10272.738281, 27.375982, 4605.506836>) as driver
+17:21:25.562 [VehicleEngine] Player "drengr" [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] started vehicle ATV (id=1ADDE2E01D424183E2214FB3490C2C0D pos=<10272.738281, 27.375999, 4605.506836>)
+17:22:27.015 [VehicleEngine] Player "drengr" [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] stopped vehicle ATV (id=1ADDE2E01D424183E2214FB3490C2C0D pos=<10241.544922, 44.224449, 5134.224121>)
+17:22:29.687 [VehicleLeave] Player drengr [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] left vehicle ATV (id=1ADDE2E01D424183E2214FB3490C2C0D pos=<10241.545898, 44.224468, 5134.224121>)
+17:26:24.468 [VehicleEnter] Player drengr [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] entered vehicle ATV (id=1ADDE2E01D424183E2214FB3490C2C0D pos=<10241.545898, 44.224457, 5134.224121>) as driver
+17:26:26.214 [VehicleEngine] Player "drengr" [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] started vehicle ATV (id=1ADDE2E01D424183E2214FB3490C2C0D pos=<10241.545898, 44.224472, 5134.224121>)
+17:28:32.570 [VehicleLeave] Player drengr [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] left vehicle ATV (id=1ADDE2E01D424183E2214FB3490C2C0D pos=<9682.637695, 39.345947, 5474.591309>)
+17:29:15.191 [VehicleEnter] Player drengr [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] entered vehicle ATV (id=1ADDE2E01D424183E2214FB3490C2C0D pos=<9682.637695, 39.345951, 5474.591309>) as driver
+17:29:17.492 [VehicleEngine] Player "drengr" [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] started vehicle ATV (id=1ADDE2E01D424183E2214FB3490C2C0D pos=<9682.637695, 39.345951, 5474.591309>)
+17:34:55.125 [MissionAirdrop] An airdrop is heading towards "Warren-Cove" (pos=<6924.000000, 0.000000, 5473.000000> type=Random_Warren-Cove) with a ExpansionAirdropContainer_Military
+17:35:04.285 [VehicleEngine] Player "drengr" [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] stopped vehicle ATV (id=1ADDE2E01D424183E2214FB3490C2C0D pos=<7091.495605, 7.083170, 5433.421875>)
+17:35:07.039 [VehicleLeave] Player drengr [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] left vehicle ATV (id=1ADDE2E01D424183E2214FB3490C2C0D pos=<7091.495605, 7.083155, 5433.421875>)
+17:50:02.585 [VehicleEnter] Player drengr [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] entered vehicle ATV (id=1ADDE2E01D424183E2214FB3490C2C0D pos=<7091.495117, 7.083145, 5433.421875>) as driver
+17:50:05.636 [VehicleEngine] Player "drengr" [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] started vehicle ATV (id=1ADDE2E01D424183E2214FB3490C2C0D pos=<7091.495117, 7.083145, 5433.421875>)
+17:50:49.714 [VehicleEngine] Player "drengr" [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] stopped vehicle ATV (id=1ADDE2E01D424183E2214FB3490C2C0D pos=<6983.516113, 32.166103, 5832.293457>)
+17:50:52.382 [VehicleLeave] Player drengr [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] left vehicle ATV (id=1ADDE2E01D424183E2214FB3490C2C0D pos=<6983.516113, 32.166119, 5832.293457>)
+18:11:26.312 [VehicleEnter] Player drengr [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] entered vehicle ATV (id=1ADDE2E01D424183E2214FB3490C2C0D pos=<6983.516113, 32.166119, 5832.293457>) as driver
+18:11:32.777 [VehicleEngine] Player "drengr" [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] started vehicle ATV (id=1ADDE2E01D424183E2214FB3490C2C0D pos=<6983.516113, 32.166107, 5832.293457>)
+18:12:15.390 [AI Patrol 00008] Spawning 3 East Coast Main Strip Tier 02 Patrol (Shamans) bots at <6575.959473, 22.957956, 6683.161621>
+18:12:15.402 [AI Patrol 00008] Global patrol count: 1
+18:16:58.578 [AI Patrol 00011] Spawning 3 Waldoboro Tier 02 Patrol (Shamans) bots at <8335.852539, 5.130000, 9004.677734>
+18:16:58.593 [AI Patrol 00011] Global patrol count: 2
+18:21:54.140 [VehicleLeave] Player drengr [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] left vehicle ATV (id=1ADDE2E01D424183E2214FB3490C2C0D pos=<9255.400391, 2.752730, 8659.987305>)
+18:22:07.125 [VehicleEnter] Player drengr [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] entered vehicle ATV (id=1ADDE2E01D424183E2214FB3490C2C0D pos=<9255.400391, 2.752736, 8659.987305>) as driver
+18:22:09.531 [VehicleEngine] Player "drengr" [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] started vehicle ATV (id=1ADDE2E01D424183E2214FB3490C2C0D pos=<9255.400391, 2.752736, 8659.987305>)
+18:23:28.546 [AI Patrol 00008] Despawning 3 East Coast Main Strip Tier 02 Patrol (Shamans) bots (spawn position <6575.959473, 22.957956, 6683.161621>, 0/3 deceased)
+18:23:28.562 [AI Patrol 00008] Global patrol count: 1
+18:23:45.070 [VehicleLeave] Player drengr [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] left vehicle ATV (id=1ADDE2E01D424183E2214FB3490C2C0D pos=<9119.224609, 8.178675, 9497.025391>)
+18:24:08.531 [VehicleEnter] Player drengr [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] entered vehicle ATV (id=1ADDE2E01D424183E2214FB3490C2C0D pos=<9118.639648, 6.664736, 9495.015625>) as driver
+18:24:10.171 [VehicleEngine] Player "drengr" [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] started vehicle ATV (id=1ADDE2E01D424183E2214FB3490C2C0D pos=<9118.639648, 6.664735, 9495.015625>)
+18:24:14.703 [VehicleLeave] Player drengr [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] left vehicle ATV (id=1ADDE2E01D424183E2214FB3490C2C0D pos=<9118.639648, 6.664735, 9495.015625>)
+18:31:39.906 [AI Patrol 00012] Spawning 3 Raceway Tier 02 Patrol (Shamans) bots at <10012.644531, 21.770000, 11019.010742>
+18:31:39.921 [AI Patrol 00012] Global patrol count: 2
+18:35:58.890 [AI Patrol 00011] Despawning 3 Waldoboro Tier 02 Patrol (Shamans) bots (spawn position <8335.852539, 5.130000, 9004.677734>, 0/3 deceased)
+18:35:58.906 [AI Patrol 00011] Global patrol count: 1
+18:40:23.281 [MissionAirdrop] An airdrop is heading towards "Stonington" (pos=<6973.000000, 0.000000, 1701.000000> type=Random_Stonington) with a ExpansionAirdropContainer
+19:11:18.750 [AI Patrol 00012] Despawning 2 Raceway Tier 02 Patrol (Shamans) bots (spawn position <10012.644531, 21.770000, 11019.010742>, 1/3 deceased)
+19:11:18.757 [AI Patrol 00012] Global patrol count: 0
+19:18:59.515 [GraveStone] Spawned GraveStone for Survivor at position 0x0000000040a10214 {<8632.56,85.5053,11257.8>}
+19:21:07.812 [VehicleEnter] Player drengr [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] entered vehicle ATV (id=F113DE6652421C3E5C97E98782C06E51 pos=<6612.708984, 17.771305, 1541.812134>) as driver
+19:21:09.453 [VehicleEngine] Player "drengr" [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] started vehicle ATV (id=F113DE6652421C3E5C97E98782C06E51 pos=<6612.708984, 17.771303, 1541.812256>)
+19:21:12.531 [VehicleLeave] Player drengr [uid=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=] left vehicle ATV (id=F113DE6652421C3E5C97E98782C06E51 pos=<6612.708496, 17.771305, 1541.812500>)
+19:24:19.312 [Expansion Quests] Deleted quest with ID=1 is a of player with UID=z41AOIcmaoiW14fjdUTWRnHCLdYuHWGGiJ8SCs-IOoM=.
+19:55:31.125 [Expansion Quests] Initialize quest system on the connected client with UID=XGxV8VHekq0KYAPc0WjoSl16cJwG5PgAznv2CZAPXhA=
+19:55:31.125 [Expansion Quests] Created new persistent player quest data for player UID=XGxV8VHekq0KYAPc0WjoSl16cJwG5PgAznv2CZAPXhA=
+19:55:31.125 [Expansion Quests] Create new achievement/auto-start quest for quest ID=1 for player with UID=XGxV8VHekq0KYAPc0WjoSl16cJwG5PgAznv2CZAPXhA=
+19:55:31.125 [Expansion Quests] Added new objective data for type=TRAVEL | Key= | ID=1
+19:55:31.125 [Expansion Quests] Updated and saved persistent player quest data for player with UID=XGxV8VHekq0KYAPc0WjoSl16cJwG5PgAznv2CZAPXhA= | Quest ID=1
+19:55:31.125 [Expansion Quests] Quest with ID=2 is not a a valid achievement or auto start quest. Skip quest for player with UID=XGxV8VHekq0KYAPc0WjoSl16cJwG5PgAznv2CZAPXhA=
+19:55:31.125 [Expansion Quests] Quest with ID=3 is not a a valid achievement or auto start quest. Skip quest for player with UID=XGxV8VHekq0KYAPc0WjoSl16cJwG5PgAznv2CZAPXhA=
+19:55:31.125 [Expansion Quests] Quest with ID=4 is not a a valid achievement or auto start quest. Skip quest for player with UID=XGxV8VHekq0KYAPc0WjoSl16cJwG5PgAznv2CZAPXhA=
+19:55:31.125 [Expansion Quests] Quest with ID=5 is not a a valid achievement or auto start quest. Skip quest for player with UID=XGxV8VHekq0KYAPc0WjoSl16cJwG5PgAznv2CZAPXhA=
+19:55:31.132 [Expansion Quests] Quest with ID=6 is not a a valid achievement or auto start quest. Skip quest for player with UID=XGxV8VHekq0KYAPc0WjoSl16cJwG5PgAznv2CZAPXhA=
+19:55:31.132 [Expansion Quests] Quest with ID=7 is not a a valid achievement or auto start quest. Skip quest for player with UID=XGxV8VHekq0KYAPc0WjoSl16cJwG5PgAznv2CZAPXhA=
+19:55:31.132 [Expansion Quests] Quest with ID=8 is not a a valid achievement or auto start quest. Skip quest for player with UID=XGxV8VHekq0KYAPc0WjoSl16cJwG5PgAznv2CZAPXhA=
+19:55:31.132 [Expansion Quests] Quest with ID=9 is not a a valid achievement or auto start quest. Skip quest for player with UID=XGxV8VHekq0KYAPc0WjoSl16cJwG5PgAznv2CZAPXhA=
+19:55:31.132 [Expansion Quests] Quest with ID=10 is not a a valid achievement or auto start quest. Skip quest for player with UID=XGxV8VHekq0KYAPc0WjoSl16cJwG5PgAznv2CZAPXhA=
+19:55:31.132 [Expansion Quests] Quest with ID=11 is not a a valid achievement or auto start quest. Skip quest for player with UID=XGxV8VHekq0KYAPc0WjoSl16cJwG5PgAznv2CZAPXhA=
+19:55:31.132 [Expansion Quests] Quest with ID=12 is not a a valid achievement or auto start quest. Skip quest for player with UID=XGxV8VHekq0KYAPc0WjoSl16cJwG5PgAznv2CZAPXhA=
+19:55:31.132 [Expansion Quests] Quest with ID=13 is not a a valid achievement or auto start quest. Skip quest for player with UID=XGxV8VHekq0KYAPc0WjoSl16cJwG5PgAznv2CZAPXhA=
+19:55:31.132 [Expansion Quests] Quest with ID=14 is not a a valid achievement or auto start quest. Skip quest for player with UID=XGxV8VHekq0KYAPc0WjoSl16cJwG5PgAznv2CZAPXhA=
+19:55:31.132 [Expansion Quests] Quest with ID=15 is not a a valid achievement or auto start quest. Skip quest for player with UID=XGxV8VHekq0KYAPc0WjoSl16cJwG5PgAznv2CZAPXhA=
+19:55:31.132 [Expansion Quests] Quest with ID=16 is not a a valid achievement or auto start quest. Skip quest for player with UID=XGxV8VHekq0KYAPc0WjoSl16cJwG5PgAznv2CZAPXhA=
+19:55:31.132 [Expansion Quests] Quest with ID=17 is not a a valid achievement or auto start quest. Skip quest for player with UID=XGxV8VHekq0KYAPc0WjoSl16cJwG5PgAznv2CZAPXhA=
+19:55:31.132 [Expansion Quests] Quest with ID=18 is not a a valid achievement or auto start quest. Skip quest for player with UID=XGxV8VHekq0KYAPc0WjoSl16cJwG5PgAznv2CZAPXhA=
+19:55:31.132 [Expansion Quests] Quest with ID=19 is not a a valid achievement or auto start quest. Skip quest for player with UID=XGxV8VHekq0KYAPc0WjoSl16cJwG5PgAznv2CZAPXhA=
+19:55:31.132 [Expansion Quests] Quest with ID=20 is not a a valid achievement or auto start quest. Skip quest for player with UID=XGxV8VHekq0KYAPc0WjoSl16cJwG5PgAznv2CZAPXhA=
+19:55:31.132 [Expansion Quests] Quest with ID=21 is not a a valid achievement or auto start quest. Skip quest for player with UID=XGxV8VHekq0KYAPc0WjoSl16cJwG5PgAznv2CZAPXhA=
+19:55:31.132 [Expansion Quests] Quest with ID=22 is not a a valid achievement or auto start quest. Skip quest for player with UID=XGxV8VHekq0KYAPc0WjoSl16cJwG5PgAznv2CZAPXhA=
+19:55:31.132 [Expansion Quests] Quest with ID=23 is not a a valid achievement or auto start quest. Skip quest for player with UID=XGxV8VHekq0KYAPc0WjoSl16cJwG5PgAznv2CZAPXhA=
+19:55:31.132 [Expansion Quests] Quest with ID=24 is not a a valid achievement or auto start quest. Skip quest for player with UID=XGxV8VHekq0KYAPc0WjoSl16cJwG5PgAznv2CZAPXhA=
+19:55:31.132 [Expansion Quests] Quest with ID=25 is not a a valid achievement or auto start quest. Skip quest for player with UID=XGxV8VHekq0KYAPc0WjoSl16cJwG5PgAznv2CZAPXhA=
+19:55:31.132 [Expansion Quests] Quest with ID=26 is not a a valid achievement or auto start quest. Skip quest for player with UID=XGxV8VHekq0KYAPc0WjoSl16cJwG5PgAznv2CZAPXhA=
+19:55:31.132 [Expansion Quests] Quest with ID=27 is not a a valid achievement or auto start quest. Skip quest for player with UID=XGxV8VHekq0KYAPc0WjoSl16cJwG5PgAznv2CZAPXhA=
+19:55:31.132 [Expansion Quests] Quest with ID=28 is not a a valid achievement or auto start quest. Skip quest for player with UID=XGxV8VHekq0KYAPc0WjoSl16cJwG5PgAznv2CZAPXhA=
+19:55:31.132 [Expansion Quests] Quest with ID=29 is not a a valid achievement or auto start quest. Skip quest for player with UID=XGxV8VHekq0KYAPc0WjoSl16cJwG5PgAznv2CZAPXhA=
+19:55:31.132 [Expansion Quests] Quest with ID=30 is not a a valid achievement or auto start quest. Skip quest for player with UID=XGxV8VHekq0KYAPc0WjoSl16cJwG5PgAznv2CZAPXhA=
+19:55:31.132 [Expansion Quests] Quest with ID=31 is not a a valid achievement or auto start quest. Skip quest for player with UID=XGxV8VHekq0KYAPc0WjoSl16cJwG5PgAznv2CZAPXhA=
+19:55:31.132 [Expansion Quests] Quest with ID=32 is not a a valid achievement or auto start quest. Skip quest for player with UID=XGxV8VHekq0KYAPc0WjoSl16cJwG5PgAznv2CZAPXhA=
+19:55:31.132 [Expansion Quests] Quest with ID=33 is not a a valid achievement or auto start quest. Skip quest for player with UID=XGxV8VHekq0KYAPc0WjoSl16cJwG5PgAznv2CZAPXhA=
+19:55:31.132 [Expansion Quests] Quest with ID=35 is not a a valid achievement or auto start quest. Skip quest for player with UID=XGxV8VHekq0KYAPc0WjoSl16cJwG5PgAznv2CZAPXhA=
+19:55:31.132 [Expansion Quests] Quest with ID=36 is not a a valid achievement or auto start quest. Skip quest for player with UID=XGxV8VHekq0KYAPc0WjoSl16cJwG5PgAznv2CZAPXhA=
+19:55:31.132 [Expansion Quests] Quest with ID=37 is not a a valid achievement or auto start quest. Skip quest for player with UID=XGxV8VHekq0KYAPc0WjoSl16cJwG5PgAznv2CZAPXhA=
+19:55:31.132 [Expansion Quests] Quest with ID=38 is not a a valid achievement or auto start quest. Skip quest for player with UID=XGxV8VHekq0KYAPc0WjoSl16cJwG5PgAznv2CZAPXhA=
+19:55:31.132 [Expansion Quests] Quest with ID=39 is not a a valid achievement or auto start quest. Skip quest for player with UID=XGxV8VHekq0KYAPc0WjoSl16cJwG5PgAznv2CZAPXhA=
+19:55:31.132 [Expansion Quests] Quest with ID=40 is not a a valid achievement or auto start quest. Skip quest for player with UID=XGxV8VHekq0KYAPc0WjoSl16cJwG5PgAznv2CZAPXhA=
+19:55:31.132 [Expansion Quests] Sending XGxV8VHekq0KYAPc0WjoSl16cJwG5PgAznv2CZAPXhA= quest configs to client for player with UID=XGxV8VHekq0KYAPc0WjoSl16cJwG5PgAznv2CZAPXhA=
+19:55:31.132 [Expansion Quests] Sending player quest data for 1 quests to player with UID=XGxV8VHekq0KYAPc0WjoSl16cJwG5PgAznv2CZAPXhA=
+19:55:31.617 [Expansion Quests] Added new objective data for type=TRAVEL | Key= | ID=1
+19:55:31.617 [Expansion Quests] Updated and saved persistent player quest data for player with UID=XGxV8VHekq0KYAPc0WjoSl16cJwG5PgAznv2CZAPXhA= | Quest ID=1
+19:55:39.304 [MissionAirdrop] An airdrop is heading towards "Greenville" (pos=<4658.000000, 0.000000, 1414.000000> type=Random_Greenville) with a ExpansionAirdropContainer_Military
+20:12:53.625 [GraveStone] Spawned GraveStone for Survivor at position 0x0000000040a10214 {<4410.76,1.03959,1305.02>}
+20:17:26.953 [Expansion Quests] Deleted quest with ID=1 is a of player with UID=XGxV8VHekq0KYAPc0WjoSl16cJwG5PgAznv2CZAPXhA=.
+20:17:56.953 [GraveStone] Spawned GraveStone for Survivor at position 0x0000000040a10214 {<7446.52,42.2847,3283.77>}
